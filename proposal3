@@ -444,6 +444,42 @@
   doi       = "10.26153/TSW/41160"
 }
 
+@ARTICLE{Fleming2018-rg,
+  title    = "Methodologies, Methods and Ethical Considerations for Conducting
+              Research in {Work-Integrated} Learning",
+  author   = "Fleming, Jenny and Zegwaard, Karsten E",
+  abstract = "Over the last 20 years, research focused on work-integrated
+              learning (WIL) has expanded considerably. While early research
+              predominantly utilized quantitative study designs, recently a
+              more diverse set of methodologies is being used to address
+              questions and issues arising from a range of WIL models. This
+              Special Issue is intended to present different methodologies
+              available to WIL researchers. The papers include case studies of
+              how these methodologies, and methods within, are being used for
+              WIL research, along with discussion of the strengths and
+              limitations of using the research approach. Examples of case
+              study methodology, multiple case studies, mixed methods, program
+              evaluation research, hermeneutic phenomenology, grounded theory,
+              reflective practice as research, and large-scale data mining,
+              provide insights into different ways of addressing research
+              questions. In this issue, the advantages and challenges faced by
+              those conducting research as 'insiders' within their own
+              organizations are also examined. Specifically, within this paper
+              the importance of ethical conduct while engaging with research,
+              especially WIL research using human participants, is discussed,
+              including the need to obtain ethical approval and consideration
+              of issues around informed consent, conflict of interest, risk of
+              harm and confidentiality.",
+  journal  = "International Journal of Work-Integrated Learning",
+  volume   =  19,
+  number   =  3,
+  pages    = "205--213",
+  year     =  2018,
+  url      = "https://eric.ed.gov/?id=EJ1196755",
+  keywords = "+Notion;+Readwise;Fieldwork Methodology;PhD Support and
+              Training;Research Methods;Upgrade Viva Prep Reading"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Lerman2017-ww,
@@ -1023,6 +1059,15 @@
                Document",
   issn      = "1368-2148, 1741-038X",
   doi       = "10.1108/JMTM-08-2018-0270"
+}
+
+@ARTICLE{Lucas_undated-na,
+  title    = "The Utility Of Case Study As A Methodology For {Work-Integrated}
+              Learning Research",
+  author   = "Lucas, Patricia and Fleming, Jenny and Bhosale, Julie",
+  journal  = "International Journal of Work-Integrated Learning",
+  keywords = "+Notion;+Readwise;Fieldwork Methodology;PhD Support and
+              Training;Research Methods;Upgrade Viva Prep Reading"
 }
 
 @BOOK{Burns1997-gn,
