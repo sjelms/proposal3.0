@@ -2047,6 +2047,25 @@
   isbn      = "9780429516375"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INCOLLECTION{Hager2013-ey,
+  title     = "Theories of Workplace Learning",
+  booktitle = "The {SAGE} Handbook of Workplace Learning",
+  author    = "Hager, Paul",
+  publisher = "SAGE Publications Ltd",
+  pages     = "17--31",
+  year      =  2013,
+  url       = "http://dx.doi.org/10.4135/9781446200940.n2",
+  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+  keywords  = "§New Literature;Workplace Learning;ePub |
+               Kindle;Important;++ClickUp;+Notion;+Readwise;Cross Ref
+               Chapter;SAGE Handbook of Workplace Learning, The;00\_TO
+               READ;EPubs Books;Upgrade Viva Prep Reading",
+  isbn      = "9781847875891, 9781446200940",
+  doi       = "10.4135/9781446200940.n2"
+}
+
 @BOOK{Adepoju2022-bj,
   title     = "Re-skilling Human Resources for Construction 4.0: Implications
                for Industry, Academia and Government",
