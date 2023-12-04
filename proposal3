@@ -556,6 +556,22 @@
   issn      = "0013-189X, 1935-102X"
 }
 
+@ARTICLE{Lederman2015-sl,
+  title     = "What Is A Theoretical Framework? A Practical Answer",
+  author    = "Lederman, Norman G and Lederman, Judith S",
+  journal   = "Journal of science teacher education",
+  publisher = "Routledge",
+  volume    =  26,
+  number    =  7,
+  pages     = "593--597",
+  month     =  dec,
+  year      =  2015,
+  url       = "https://doi.org/10.1007/s10972-015-9443-2",
+  keywords  = "Upgrade Viva Prep Reading",
+  issn      = "1046-560X",
+  doi       = "10.1007/s10972-015-9443-2"
+}
+
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
 @INCOLLECTION{Lerman2017-ww,
