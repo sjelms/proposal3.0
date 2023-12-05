@@ -813,6 +813,25 @@
   doi       = "10.1287/orsc.10.4.381"
 }
 
+@INCOLLECTION{Thuesen2019-fv,
+  title     = "The Impact of Organisational Learning and Change on Offsite
+               Manufacturing",
+  booktitle = "Offsite Production and Manufacturing for Innovative Construction",
+  author    = "Thuesen, Christian and Bekdik, Bar{\i}{\c s}",
+  publisher = "Routledge",
+  pages     = "337--358",
+  month     =  jun,
+  year      =  2019,
+  url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-14/impact-organisational-learning-change-offsite-manufacturing-christian-thuesen-bar%C4%B1%C5%9F-bekdik",
+  address   = "Abingdon, Oxon ; New York, NY : Routledge, 2019.",
+  keywords  = "Cross Ref Chapter;AEC;Workplace Learning;Fieldwork
+               Methodology;Research Methods;Offsite Production and
+               Manufacturing for Innovative Construction;Upgrade Viva Prep
+               Reading",
+  isbn      = "9781315147321",
+  doi       = "10.1201/9781315147321-14"
+}
+
 @ARTICLE{Acemoglu2019-rl,
   title    = "Automation and New Tasks: How Technology Displaces and Reinstates
               Labor",
