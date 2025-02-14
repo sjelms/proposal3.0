@@ -632,20 +632,6 @@
   doi       = "10.4324/9780203571644-10"
 }
 
-@MISC{60_Minutes2023-vq,
-  title     = "Can {3D}-Printed Homes Withstand a Changing Climate?",
-  author    = "{60 Minutes}",
-  publisher = "Youtube",
-  address   = "United States",
-  abstract  = "3D printing startup co-founder Jason Ballard explains how he
-               thinks 3D-printed houses will transform construction jobs and
-               resist the effects of climate chan...",
-  month     =  oct,
-  year      =  2023,
-  url       = "https://www.youtube.com/watch?v=kOZxvpVWBJ4",
-  keywords  = "60 Minutes; CBS News; 3D-printed houses; climate change"
-}
-
 @ARTICLE{Chong2013-nz,
   title     = "The ‘Russian Doll’ Approach: Developing Nested Case-studies to
                Support International Comparative Research in Education",
@@ -2570,4 +2556,18 @@
   url       = "https://doi.org/10.1080/13639080903290355",
   doi       = "10.1080/13639080903290355",
   issn      = "1363-9080"
+}
+
+@MISC{60_Minutes2023-vq,
+  title     = "Can {3D}-Printed Homes Withstand a Changing Climate?",
+  author    = "{60 Minutes}",
+  publisher = "Youtube",
+  address   = "United States",
+  abstract  = "3D printing startup co-founder Jason Ballard explains how he
+               thinks 3D-printed houses will transform construction jobs and
+               resist the effects of climate chan...",
+  month     =  oct,
+  year      =  2023,
+  url       = "https://www.youtube.com/watch?v=kOZxvpVWBJ4",
+  keywords  = "60 Minutes; CBS News; 3D-printed houses; climate change"
 }
