@@ -536,8 +536,9 @@
               nature of WIL.",
   year     =  2018,
   url      = "https://eric.ed.gov/?id=EJ1196748",
-  keywords = "Upgrade Viva Prep Reading;\_In Notion;\_In Readwise;Fieldwork
-              Methodology;PhD Support and Training;Research Methods"
+  keywords = "Upgrade Viva Prep Reading;\_BibTex to MD Git;\_In Notion;\_In
+              Readwise;Fieldwork Methodology;PhD Support and Training;Research
+              Methods"
 }
 
 @ARTICLE{Glassman2001-cg,
@@ -580,7 +581,7 @@
                might impact actual classroom strategies and curriculum.]",
   year      =  2001,
   url       = "http://www.jstor.org/stable/3594354",
-  keywords  = "Upgrade Viva Prep Reading;\_In Notion;\_In
+  keywords  = "Upgrade Viva Prep Reading;\_BibTex to MD Git;\_In Notion;\_In
                Readwise;Education;Knowledge - Skill Acquisition",
   issn      = "0013-189X,1935-102X"
 }
@@ -857,7 +858,8 @@
   month    =  mar,
   year     =  2012,
   url      = "https://api.semanticscholar.org/CorpusID:150042620",
-  keywords = "Upgrade Viva Prep Reading;Education;Knowledge - Skill Acquisition"
+  keywords = "Upgrade Viva Prep Reading;\_BibTex to MD Git;Education;Knowledge -
+              Skill Acquisition"
 }
 
 @MISC{Lidelow2023-sm,
@@ -2112,9 +2114,9 @@
   year      =  2013,
   url       = "http://dx.doi.org/10.4135/9781446200940.n2",
   keywords  = "SAGE Handbook of Workplace Learning;00\_TO READ;EPubs
-               Books;Upgrade Viva Prep Reading;\_New Literature;Workplace
-               Learning;ePub;Important;\_In ClickUp;\_In Notion;\_In
-               Readwise;Cross Ref Chapter;Readwise Reader",
+               Books;Upgrade Viva Prep Reading;\_BibTex to MD Git;\_New
+               Literature;Workplace Learning;ePub;Important;\_In ClickUp;\_In
+               Notion;\_In Readwise;Cross Ref Chapter;Readwise Reader",
   doi       = "10.4135/9781446200940.n2",
   isbn      = "9781847875891,9781446200940"
 }
