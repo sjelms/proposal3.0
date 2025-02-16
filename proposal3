@@ -830,8 +830,8 @@
   url       = "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-14/impact-organisational-learning-change-offsite-manufacturing-christian-thuesen-bar%C4%B1%C5%9F-bekdik",
   keywords  = "Offsite Production and Manufacturing for Innovative
                Construction;Upgrade Viva Prep Reading;AEC Cited Lit for
-               Jacqui;Cross Ref Chapter;AEC;Workplace Learning;Fieldwork
-               Methodology;Research Methods",
+               Jacqui;\_BibTex to MD Git;Cross Ref Chapter;AEC;Workplace
+               Learning;Fieldwork Methodology;Research Methods",
   doi       = "10.1201/9781315147321-14",
   isbn      =  9781315147321
 }
