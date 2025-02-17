@@ -1069,8 +1069,8 @@
   month     =  "16~" # sep,
   year      =  2022,
   url       = "https://journals.sub.uni-hamburg.de/hup2/ijrvet/article/view/900",
-  keywords  = "Supplement Feedback Document;Fieldwork Methodology;Research
-               Methods",
+  keywords  = "Supplement Feedback Document;\_BibTex to MD Git;Fieldwork
+               Methodology;Research Methods",
   doi       = "10.13152/ijrvet.9.3.1",
   issn      = "2197-8638,2197-8646"
 }
@@ -1107,7 +1107,8 @@
   year        =  2019,
   url         = "https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch18",
   keywords    = "Supplement Feedback Document;Handbook of Vocational Education
-                 and Training-Wiley 2019;Cross Ref Chapter;ePub",
+                 and Training-Wiley 2019;\_BibTex to MD Git;Cross Ref
+                 Chapter;ePub",
   doi         = "10.1002/9781119098713.ch18",
   isbn        = "9781119098713,9781119098591"
 }
@@ -1156,8 +1157,8 @@
   month     =  "1~" # jan,
   year      =  2019,
   url       = "https://doi.org/10.1108/JMTM-08-2018-0270",
-  keywords  = "Supplement Feedback Document;Fieldwork Methodology;Research
-               Methods",
+  keywords  = "Supplement Feedback Document;\_BibTex to MD Git;Fieldwork
+               Methodology;Research Methods",
   doi       = "10.1108/JMTM-08-2018-0270",
   issn      = "1368-2148,1741-038X"
 }
