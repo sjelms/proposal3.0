@@ -1529,7 +1529,7 @@
 
 @ARTICLE{Cuendet2014-vs,
   title     = "A Study of Carpenter Apprentices’ Spatial Skills",
-  author    = "Cuendet, Sebastien and Dehler-Zufferey, Jessica and Arn,
+  author    = "Cuendet, Sébastien and Dehler-Zufferey, Jessica and Arn,
                Christoph and Bumbacher, Engin and Dillenbourg, Pierre",
   journal   = "Empirical Research in Vocational Education and Training",
   publisher = "SpringerOpen",
@@ -1607,10 +1607,10 @@
   month     =  "1~" # mar,
   year      =  2003,
   url       = "https://doi.org/10.2304/eerj.2003.2.1.9",
-  keywords  = "Journal Articles;Notion Catalogued;Contemporary Apprenticeship
-               (Fuller \& Unwin);3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;Workplace Learning;Knowledge - Skill Acquisition;UCL;\_In
-               Readwise;\_Mark Up;\_In ClickUp;\_Cataloged",
+  keywords  = "Journal Articles;Notion Catalogued;Contemporary Apprenticeship by
+               Fuller and Unwin;3\_Upgrade OCT 2023;\_BibTex to MD Git;Workplace
+               Learning;Knowledge - Skill Acquisition;UCL;\_In Readwise;\_Mark
+               Up;\_In ClickUp;\_Cataloged",
   doi       = "10.2304/eerj.2003.2.1.9",
   issn      = "1474-9041"
 }
@@ -2800,10 +2800,10 @@
   month     =  "1~" # sep,
   year      =  2009,
   url       = "https://doi.org/10.1080/13639080903290355",
-  keywords  = "Contemporary Apprenticeship (Fuller \& Unwin);00\_TO READ;Notion
-               Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-               to MD Git;UCL;Workplace Learning;AEC;\_In ClickUp;\_Mark
-               Up;\_Cataloged",
+  keywords  = "Contemporary Apprenticeship by Fuller and Unwin;00\_TO
+               READ;Notion Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for
+               Jacqui;\_BibTex to MD Git;UCL;Workplace Learning;AEC;\_In
+               ClickUp;\_Mark Up;\_Cataloged",
   doi       = "10.1080/13639080903290355",
   issn      = "1363-9080"
 }
