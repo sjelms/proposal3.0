@@ -2063,23 +2063,6 @@
   language  = "en"
 }
 
-@INCOLLECTION{Hager2013-ey,
-  title     = "Theories of Workplace Learning",
-  author    = "Hager, Paul",
-  booktitle = "The SAGE Handbook of Workplace Learning",
-  publisher = "SAGE Publications Ltd",
-  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
-  pages     = "17--31",
-  year      =  2013,
-  url       = "http://dx.doi.org/10.4135/9781446200940.n2",
-  keywords  = "SAGE Handbook of Workplace Learning;00\_TO READ;EPubs
-               Books;Upgrade Viva Prep Reading;\_BibTex to MD Git;\_New
-               Literature;Workplace Learning;ePub;Important;\_In ClickUp;\_In
-               Notion;\_In Readwise;Cross Ref Chapter;Readwise Reader",
-  doi       = "10.4135/9781446200940.n2",
-  isbn      = "9781847875891,9781446200940"
-}
-
 @BOOK{Adepoju2022-bj,
   title     = "Re-skilling Human Resources for Construction 4.0: Implications
                for Industry, Academia and Government",
@@ -2949,4 +2932,23 @@
   keywords    = "Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
                  Notion;\_Mark Up;Cited for Frontiers"
+}
+
+@INCOLLECTION{Hager2013-ey,
+  title     = "Theories of Workplace Learning",
+  author    = "Hager, Paul",
+  editor    = "Malloch, Margaret and Cairns, Len and Evans, Karen and O'Connor,
+               Bridget N",
+  booktitle = "The SAGE Handbook of Workplace Learning",
+  publisher = "SAGE Publications Ltd",
+  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+  pages     = "17--31",
+  year      =  2013,
+  url       = "http://dx.doi.org/10.4135/9781446200940.n2",
+  keywords  = "SAGE Handbook of Workplace Learning;00\_TO READ;EPubs
+               Books;Upgrade Viva Prep Reading;\_BibTex to MD Git;\_New
+               Literature;Workplace Learning;ePub;Important;\_In ClickUp;\_In
+               Notion;\_In Readwise;Cross Ref Chapter;Readwise Reader",
+  doi       = "10.4135/9781446200940.n2",
+  isbn      = "9781847875891,9781446200940"
 }
