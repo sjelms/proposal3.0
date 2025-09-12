@@ -459,7 +459,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "Utrecht University",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "349--372",
   abstract    = "Summary What is typical of a vocational curriculum is that it
@@ -1056,7 +1056,7 @@
   affiliation = "UCL Institute of Education; Centre for Learning and Life
                  Chances in Knowledge Economies and Societies (LLAKES)",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "17--40",
   abstract    = "Summary This chapter examines the impact of new technologies
@@ -1112,7 +1112,7 @@
   editor      = "Guile, David and Unwin, Lorna",
   affiliation = "UCL Institute of Education",
   booktitle   = "The Wiley Handbook of Vocational Education and Training",
-  publisher   = "John Wiley \& Sons, Inc.",
+  publisher   = "John Wiley \& Sons",
   address     = "Hoboken, NJ, USA",
   pages       = "81--96",
   abstract    = "Summary This chapter asks what an occupation means under
