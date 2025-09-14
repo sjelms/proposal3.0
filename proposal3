@@ -2288,9 +2288,11 @@
 }
 
 @BOOK{Kumar2019-dp,
-  title     = "Research Methodology: A Step-by-Step Guide for Beginners",
+  title     = "Research methodology: A step-by-step guide for beginners",
   author    = "Kumar, Ranjit",
   publisher = "SAGE Publications",
+  address   = "London, England",
+  edition   =  5,
   abstract  = "Designed with students, for students Eight steps, two pathways,
                one book. The Fifth Edition of the bestseller Research
                Methodology has reimagined, redesigned, and fully renovated how a
@@ -2317,7 +2319,7 @@
                this one book, every student gets what they need to succeed. It
                is the perfect essential text for students and beginner
                researchers across the social sciences.",
-  month     =  "11~" # feb,
+  month     =  "30~" # jan,
   year      =  2019,
   url       = "https://us.sagepub.com/en-us/nam/research-methodology/book257990",
   keywords  = "Theory and Methods;2\_Upgrade MAY 2023;00\_TO READ;EPubs
@@ -2936,13 +2938,13 @@
 }
 
 @INCOLLECTION{Hager2013-ey,
-  title     = "Theories of Workplace Learning",
+  title     = "Theories of workplace learning",
   author    = "Hager, Paul",
   editor    = "Malloch, Margaret and Cairns, Len and Evans, Karen and O'Connor,
                Bridget N",
   booktitle = "The SAGE Handbook of Workplace Learning",
-  publisher = "SAGE Publications",
-  address   = "London, England",
+  publisher = "SAGE Publications Ltd",
+  address   = "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
   pages     = "17--31",
   year      =  2013,
   url       = "http://dx.doi.org/10.4135/9781446200940.n2",
