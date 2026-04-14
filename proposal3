@@ -28,8 +28,9 @@
   url         = {https://digitalcommons.calpoly.edu/cmsp/456/},
   urldate     = {2023-04-22},
   keywords    = {2\_Upgrade MAY 2023;Construction 4-0;00\_TO READ;3\_Upgrade OCT
-                 2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
-                 Notion;\_In Readwise;\_New Literature;\_In ClickUp}
+                 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                 Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_In Readwise;\_New
+                 Literature;\_In ClickUp}
 }
 
 @ARTICLE{Cook1999-yi,
@@ -77,7 +78,7 @@
                   research.},
   url          = {https://doi.org/10.1287/orsc.10.4.381},
   keywords     = {3\_Upgrade OCT 2023;Upgrade Viva Prep Reading;\_BibTex to MD
-                  Git}
+                  Git;llm-wiki-workflow}
 }
 
 @BOOK{Frey2019-yf,
@@ -1105,7 +1106,8 @@
   date        = {2018-09},
   pagetotal   = {62},
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;\_BibTex to MD Git;AEC;\_New Literature}
+                 Cited Lit for Jacqui;\_BibTex to MD
+                 Git;llm-wiki-workflow;AEC;\_New Literature}
 }
 
 @REPORT{Smith2023-fp,
@@ -1137,8 +1139,8 @@
                  2023;2\_Upgrade MAY 2023;00\_TO READ;Government
                  Report;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
                  MD Git;EPubs Books;BSSC Seed Fund for AI
-                 Research;AEC;Important;\_Mark Up;Essential;\_Cataloged;\_In
-                 ClickUp;Report;ePub;Training}
+                 Research;llm-wiki-workflow;AEC;Important;\_Mark
+                 Up;Essential;\_Cataloged;\_In ClickUp;Report;ePub;Training}
 }
 
 @INPROCEEDINGS{Olsen2012-bm,
@@ -1163,41 +1165,8 @@
   url         = {http://ascpro0.ascweb.org/archives/cd/2012/paper/CPGT204002012.pdf},
   keywords    = {Frontiers [2022];Notion Catalogued;UCL Poster Q1
                  2023;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for
-                 Jacqui;\_BibTex to MD Git;AEC;Labor;\_Mark Up;DONE;\_Cataloged}
-}
-
-@ARTICLE{Fuller2003-fy,
-  title        = {Learning as Apprentices in the Contemporary {UK} Workplace:
-                  Creating and Managing Expansive and Restrictive Participation},
-  author       = {Fuller, Alison and Unwin, Lorna},
-  journaltitle = {Journal of Education and Work},
-  publisher    = {Routledge},
-  volume       = {16},
-  issue        = {4},
-  pages        = {407--426},
-  date         = {2003-12-01},
-  doi          = {10.1080/1363908032000093012},
-  issn         = {1363-9080},
-  abstract     = {Situated learning theory provides a rich conceptual framework
-                  for analysing the processes by which apprentices become (full)
-                  participants in a community of practice. This article uses
-                  case study evidence from the UK's Modern Apprenticeship
-                  programme to show how this framework can be developed by
-                  identifying features of expansive and restrictive
-                  participation which help distinguish between different
-                  approaches to apprenticeship. We suggest that three
-                  inter-related themes (participation, personal development and
-                  institutional arrangements) underpin an expansive/restrictive
-                  continuum. The analysis is used to categorise company
-                  approaches to apprenticeship according to their expansive and
-                  restrictive characteristics, and to illustrate the variable
-                  learning opportunities that are being created for apprentices
-                  under the Modern Apprenticeship.},
-  url          = {https://doi.org/10.1080/1363908032000093012},
-  keywords     = {Journal Articles;VET-TVET;Theory and Methods;3\_Upgrade OCT
-                  2023;\_BibTex to MD Git;Workplace Learning;Knowledge - Skill
-                  Acquisition;VET;UCL;\_In Readwise;\_In Notion;Research
-                  Methods;\_Mark Up}
+                 Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;Labor;\_Mark
+                 Up;DONE;\_Cataloged}
 }
 
 @REPORT{Bryer2021-cn,
@@ -1211,7 +1180,7 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-                 MD Git;Cited for Frontiers;AEC}
+                 MD Git;llm-wiki-workflow;Cited for Frontiers;AEC}
 }
 
 @REPORT{Autor2020-ol,
@@ -1225,7 +1194,7 @@
   pagetotal   = {100},
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];3\_Upgrade OCT 2023;Future of
-                 Work;\_BibTex to MD Git;Cited for
+                 Work;\_BibTex to MD Git;llm-wiki-workflow;Cited for
                  Frontiers;Automation;Economics;Employment;Skill
                  demand;Technological change}
 }
@@ -1245,7 +1214,8 @@
   keywords     = {Zotero Import (Feb 22);My Library;2021-12-03
                   Frontiers;Frontiers import [Aug 11];Journal
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                  to MD Git;\_Mark Up;AEC;VET;Workplace Learning}
+                  to MD Git;llm-wiki-workflow;\_Mark Up;AEC;VET;Workplace
+                  Learning}
 }
 
 @REPORT{Thompson2021-sk,
@@ -1259,8 +1229,8 @@
   pagetotal   = {66},
   url         = {https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work},
   keywords    = {2\_Upgrade MAY 2023;Construction 4-0;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
-                 Readwise;\_New Literature},
+                 Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
+                 Notion;\_In Readwise;\_New Literature},
   origtitle   = {DfMA Overlay to the RIBA Plan of Work: Mainstreaming Design for
                  Manufacture and Assembly In Construction}
 }
@@ -1285,7 +1255,8 @@
   url          = {http://ascelibrary.org/doi/10.1061/%28ASCE%29ME.1943-5479.0000720},
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                  to MD Git;Labor;\_Mark Up;DONE;Cited for Frontiers;AEC},
+                  to MD Git;llm-wiki-workflow;Labor;\_Mark Up;DONE;Cited for
+                  Frontiers;AEC},
   language     = {en}
 }
 
@@ -1303,8 +1274,9 @@
                   relentless downward trend in union density (defined as the …},
   url          = {https://scholarship.kentlaw.iit.edu/cklawreview/vol95/iss1/46/},
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;Notion
-                  Catalogued;3\_Upgrade OCT 2023;\_BibTex to MD Git;Labor;Cited
-                  for Frontiers;\_Cataloged;\_In Readwise;\_Mark Up}
+                  Catalogued;3\_Upgrade OCT 2023;\_BibTex to MD
+                  Git;llm-wiki-workflow;Labor;Cited for
+                  Frontiers;\_Cataloged;\_In Readwise;\_Mark Up}
 }
 
 @ARTICLE{Snell2019-ty,
@@ -1345,8 +1317,8 @@
                   industry.},
   url          = {https://doi.org/10.1080/13636820.2018.1480520},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;VET-TVET;3\_Upgrade OCT
-                  2023;\_BibTex to MD Git;Workplace Learning;\_Mark
-                  Up;Labor;Cited for Frontiers;VET}
+                  2023;\_BibTex to MD Git;llm-wiki-workflow;Workplace
+                  Learning;\_Mark Up;Labor;Cited for Frontiers;VET}
 }
 
 @ARTICLE{Cuendet2014-vs,
@@ -1395,8 +1367,9 @@
   url          = {https://ervet-journal.springeropen.com/articles/10.1186/s40461-014-0003-3},
   urldate      = {2022-04-26},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;VET-TVET;3\_Upgrade OCT
-                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;Knowledge -
-                  Skill Acquisition;AEC;Workplace Learning;\_Mark Up;Cited for
+                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;llm-wiki-workflow;Knowledge - Skill
+                  Acquisition;AEC;Workplace Learning;\_Mark Up;Cited for
                   Frontiers;VET},
   language     = {en}
 }
@@ -1434,8 +1407,9 @@
   url          = {https://doi.org/10.2304/eerj.2003.2.1.9},
   keywords     = {Journal Articles;Notion Catalogued;Contemporary Apprenticeship
                   by Fuller and Unwin;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;Workplace Learning;Knowledge - Skill Acquisition;UCL;\_In
-                  Readwise;\_Mark Up;\_In ClickUp;\_Cataloged}
+                  Git;llm-wiki-workflow;Workplace Learning;Knowledge - Skill
+                  Acquisition;UCL;\_In Readwise;\_Mark Up;\_In
+                  ClickUp;\_Cataloged}
 }
 
 @REPORT{Meisels2021-ql,
@@ -1449,7 +1423,8 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC}
+                 Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited
+                 for Frontiers;AEC}
 }
 
 @ARTICLE{Moodie2002-nc,
@@ -1480,7 +1455,7 @@
   url          = {https://doi.org/10.1080/13636820200200197},
   keywords     = {Notion Catalogued;2\_Upgrade MAY 2023;Journal
                   Articles;VET-TVET;3\_Upgrade OCT 2023;\_BibTex to MD Git;BSSC
-                  Seed Fund for AI Research;Knowledge - Skill
+                  Seed Fund for AI Research;llm-wiki-workflow;Knowledge - Skill
                   Acquisition;Workplace Learning;\_Mark Up;Cited for
                   Frontiers;\_In Readwise;Training;\_Cataloged;VET}
 }
@@ -1494,7 +1469,8 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC}
+                 Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited
+                 for Frontiers;AEC}
 }
 
 @BOOK{Clark2021-ef,
@@ -1508,8 +1484,8 @@
   isbn      = {9780192636614},
   keywords  = {Social sciences -- Research -- Methodology;RDL
                [CCME0041];Reviewed on Theory;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;Critical Realism;Course Assignment;\_New Literature;Research
-               Methods},
+               Git;Critical Realism;llm-wiki-workflow;Course Assignment;\_New
+               Literature;Research Methods},
   language  = {eng}
 }
 
@@ -1522,7 +1498,7 @@
   pages        = {117--122},
   date         = {2005},
   issn         = {1477-7029},
-  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD Git}
+  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD Git;llm-wiki-workflow}
 }
 
 @REPORT{Cole2023-zp,
@@ -1534,8 +1510,8 @@
   date        = {2023-04-05},
   url         = {https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis},
   keywords    = {Construction 4-0;00\_TO READ;3\_Upgrade OCT 2023;AEC Cited Lit
-                 for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
-                 Readwise;AEC;Labor},
+                 for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
+                 Notion;\_In Readwise;AEC;Labor},
   origtitle   = {Who Will Be the Builders? Modular’s Role in Solving the Housing
                  Labour Crisis}
 }
@@ -1549,7 +1525,7 @@
   date        = {2022-11-11},
   pagetotal   = {12},
   keywords    = {Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC Cited
-                 Lit for Jacqui;\_BibTex to MD Git;AEC}
+                 Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC}
 }
 
 @PHDTHESIS{Jadallah2021-bu,
@@ -1609,7 +1585,7 @@
   urldate     = {2022-11-10},
   keywords    = {LSU - Louisiana State University;Notion Catalogued;2\_Upgrade
                  MAY 2023;00\_TO READ;3\_Upgrade OCT 2023;AEC Cited Lit for
-                 Jacqui;\_BibTex to MD Git;AEC;Workplace
+                 Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;Workplace
                  Learning;Thesis;Read;\_Cataloged;\_Mark Up;\_In ClickUp}
 }
 
@@ -1652,8 +1628,8 @@
   url          = {https://www.frontiersin.org/articles/10.3389/fbuil.2021.678366/full},
   keywords     = {LSU - Louisiana State University;Notion Catalogued;2\_Upgrade
                   MAY 2023;Journal Articles;3\_Upgrade OCT 2023;AEC Cited Lit
-                  for Jacqui;\_BibTex to MD Git;AEC;Workplace Learning;\_Mark
-                  Up;\_Cataloged}
+                  for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;Workplace
+                  Learning;\_Mark Up;\_Cataloged}
 }
 
 @INBOOK{Casini2022-zx,
@@ -1697,8 +1673,8 @@
   url       = {https://www.sciencedirect.com/science/article/pii/B9780128217979000118},
   keywords  = {Marco Casini Construction 4-0;2\_Upgrade MAY 2023;00\_TO
                READ;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;AEC;Labor;\_In Notion;\_In Readwise;Essential;\_In
-               ClickUp;Economics}
+               Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_In
+               Readwise;Essential;\_In ClickUp;Economics}
 }
 
 @ARTICLE{Wang2008-rq,
@@ -1722,7 +1698,8 @@
   url          = {https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9364(2008)134:10(795)},
   keywords     = {Notion Catalogued;2\_Upgrade MAY 2023;Journal
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                  to MD Git;AEC;Workplace Learning;\_Mark Up;\_Cataloged},
+                  to MD Git;llm-wiki-workflow;AEC;Workplace Learning;\_Mark
+                  Up;\_Cataloged},
   language     = {en}
 }
 
@@ -1764,8 +1741,8 @@
   url          = {http://dx.doi.org/10.14455/isec.res.2019.184},
   keywords     = {AEC;Construction 4-0;Notion Catalogued;UCL Poster Q1
                   2023;2\_Upgrade MAY 2023;Journal Articles;3\_Upgrade OCT
-                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;\_Mark
-                  Up;\_In Readwise;\_Cataloged},
+                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;llm-wiki-workflow;AEC;\_Mark Up;\_In Readwise;\_Cataloged},
   language     = {en}
 }
 
@@ -1806,7 +1783,7 @@
   url        = {http://dx.doi.org/10.29007/4nk3},
   keywords   = {Construction 4-0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
                 MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                to MD Git;AEC;\_Mark Up;\_Cataloged}
+                to MD Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged}
 }
 
 @ARTICLE{Oesterreich2016-yo,
@@ -1845,7 +1822,7 @@
                   Construction industry;Construction 4-0;Notion
                   Catalogued;2\_Upgrade MAY 2023;00\_TO READ;Journal
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                  to MD Git;AEC;Automation;Important;\_Mark
+                  to MD Git;llm-wiki-workflow;AEC;Automation;Important;\_Mark
                   Up;Essential;\_Cataloged;\_In ClickUp}
 }
 
@@ -1871,8 +1848,8 @@
   keywords     = {Construction 4-0;Notion Catalogued;UCL Poster Q1
                   2023;2\_Upgrade MAY 2023;00\_TO READ;Journal Articles;Deloitte
                   - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC Cited Lit for
-                  Jacqui;\_BibTex to MD Git;AEC;\_Mark Up;\_Cataloged;\_In
-                  ClickUp}
+                  Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;\_Mark
+                  Up;\_Cataloged;\_In ClickUp}
 }
 
 @ARTICLE{Killingsworth2013-qe,
@@ -1902,9 +1879,10 @@
                   conclusions are discussed.},
   url          = {http://dx.doi.org/10.1177/1045159513489111},
   keywords     = {LSU Supporting Works;Theory and Methods;Journal
-                  Articles;3\_Upgrade OCT 2023;\_BibTex to MD Git;Knowledge -
-                  Skill Acquisition;Workplace Learning;Research Methods;\_In
-                  Notion;\_In Readwise;\_New Literature}
+                  Articles;3\_Upgrade OCT 2023;\_BibTex to MD
+                  Git;llm-wiki-workflow;Knowledge - Skill Acquisition;Workplace
+                  Learning;Research Methods;\_In Notion;\_In Readwise;\_New
+                  Literature}
 }
 
 @ARTICLE{Russell2007-qq,
@@ -1923,7 +1901,7 @@
   issn         = {0733-9364,1943-7862},
   url          = {https://ascelibrary.org/doi/10.1061/%28ASCE%290733-9364%282007%29133%3A9%28661%29},
   keywords     = {LSU Supporting Works;Journal Articles;3\_Upgrade OCT
-                  2023;\_BibTex to MD Git;Knowledge - Skill
+                  2023;\_BibTex to MD Git;llm-wiki-workflow;Knowledge - Skill
                   Acquisition;Workplace Learning;\_In Notion;\_In Readwise;\_New
                   Literature}
 }
@@ -1966,7 +1944,7 @@
   url       = {https://us.sagepub.com/en-us/nam/research-methodology/book257990},
   keywords  = {Theory and Methods;2\_Upgrade MAY 2023;00\_TO READ;EPubs
                Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;PhD Study and
-               Support;ePub;Research Methods;\_In Notion;\_In
+               Support;llm-wiki-workflow;ePub;Research Methods;\_In Notion;\_In
                Readwise;Important;Read;Book (physical)},
   language  = {en}
 }
@@ -1980,7 +1958,8 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC}
+                 Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited
+                 for Frontiers;AEC}
 }
 
 @INPROCEEDINGS{Ras2017-fv,
@@ -2001,7 +1980,8 @@
   url        = {http://dx.doi.org/10.1145/3056540.3076192},
   keywords   = {Construction 4-0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;Notion
                 Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                to MD Git;AEC;\_Mark Up;\_Cataloged;\_In ClickUp}
+                to MD Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged;\_In
+                ClickUp}
 }
 
 @INBOOK{Booth2001-fr,
@@ -2033,7 +2013,7 @@
                shared between parties.},
   url       = {https://www.sciencedirect.com/science/article/pii/B0080430767022877},
   keywords  = {2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;Labor;Workplace Learning}
+               Git;llm-wiki-workflow;Labor;Workplace Learning}
 }
 
 @INBOOK{Herod2009-pg,
@@ -2076,8 +2056,8 @@
                Secretariats; Knights of Labor; National Labor Relations Board;
                Politics of scale; Soviet model of unionism; Trades Union
                Congress (TUC); World Federation of Trade Unions;2\_Upgrade MAY
-               2023;3\_Upgrade OCT 2023;\_BibTex to MD Git;Labor;Workplace
-               Learning}
+               2023;3\_Upgrade OCT 2023;\_BibTex to MD
+               Git;llm-wiki-workflow;Labor;Workplace Learning}
 }
 
 @ARTICLE{Assaad2022-zl,
@@ -2095,9 +2075,10 @@
   issn         = {0733-9364,1943-7862},
   url          = {http://dx.doi.org/10.1061/(asce)co.1943-7862.0002314},
   keywords     = {Construction 4-0;00\_TO READ;Journal Articles;3\_Upgrade OCT
-                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
-                  Notion;\_In Readwise;AEC;Essential;\_In ClickUp;\_Mark
-                  Up;Workplace Learning;Training},
+                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;llm-wiki-workflow;\_In Notion;\_In
+                  Readwise;AEC;Essential;\_In ClickUp;\_Mark Up;Workplace
+                  Learning;Training},
   language     = {en}
 }
 
@@ -2122,8 +2103,9 @@
                  design, potential pitfalls to avoid, and relevant case studies
                  that illustrate successes and obstacles.},
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;3\_Upgrade OCT
-                 2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
-                 Notion;\_In Readwise;AEC;Important;\_New Literature}
+                 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                 Git;llm-wiki-workflow;\_In Notion;\_In
+                 Readwise;AEC;Important;\_New Literature}
 }
 
 @ARTICLE{Detsimas2016-jx,
@@ -2178,8 +2160,9 @@
   url          = {http://dx.doi.org/10.1108/jmd-05-2015-0073},
   keywords     = {LSU Supporting Works;Notion Catalogued;Reviewed on
                   Theory;2\_Upgrade MAY 2023;Journal Articles;3\_Upgrade OCT
-                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Research
-                  Methods;Workplace Learning;\_Mark Up;Knowledge - Skill
+                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;llm-wiki-workflow;AEC;Research Methods;Workplace
+                  Learning;\_Mark Up;Knowledge - Skill
                   Acquisition;Training;Skill demand;Labor;\_Cataloged},
   language     = {en}
 }
@@ -2203,8 +2186,9 @@
                conceptual tools for analysis and design of transformations in
                collaborative work and learning.},
   url       = {https://www.cambridge.org/core/books/from-teams-to-knots/E37D0858F603DE6A88281FA0D46BD856},
-  keywords  = {EPubs Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;\_In
-               Notion;\_In Readwise;Workplace Learning;\_New Literature},
+  keywords  = {EPubs Books;3\_Upgrade OCT 2023;\_BibTex to MD
+               Git;llm-wiki-workflow;\_In Notion;\_In Readwise;Workplace
+               Learning;\_New Literature},
   language  = {en}
 }
 
@@ -2240,8 +2224,8 @@
   url          = {https://doi.org/10.1080/13639080903290355},
   keywords     = {Contemporary Apprenticeship by Fuller and Unwin;00\_TO
                   READ;Notion Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for
-                  Jacqui;\_BibTex to MD Git;UCL;Workplace Learning;AEC;\_In
-                  ClickUp;\_Mark Up;\_Cataloged}
+                  Jacqui;\_BibTex to MD Git;llm-wiki-workflow;UCL;Workplace
+                  Learning;AEC;\_In ClickUp;\_Mark Up;\_Cataloged}
 }
 
 @REPORT{Felstead2011-az,
@@ -2273,8 +2257,8 @@
   url         = {http://eprints.soton.ac.uk/id/eprint/181011},
   urldate     = {2023-08-06},
   keywords    = {WALF - Improving Working as Learning ;3\_Upgrade OCT
-                 2023;\_BibTex to MD Git;\_In Notion;\_In Readwise;\_In
-                 ClickUp;Workplace Learning;VET;UCL;\_Mark Up},
+                 2023;\_BibTex to MD Git;llm-wiki-workflow;\_In Notion;\_In
+                 Readwise;\_In ClickUp;Workplace Learning;VET;UCL;\_Mark Up},
   language    = {en}
 }
 
@@ -2305,9 +2289,9 @@
                role in the development of expertise.},
   url       = {https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch2},
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
-               Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;\_In ClickUp;\_In
-               Notion;\_In Readwise;ePub;UCL;Workplace Learning;\_Mark
-               Up;VET;Book (child)}
+               Books;3\_Upgrade OCT 2023;\_BibTex to MD
+               Git;llm-wiki-workflow;\_In ClickUp;\_In Notion;\_In
+               Readwise;ePub;UCL;Workplace Learning;\_Mark Up;VET;Book (child)}
 }
 
 @INBOOK{Guile2019-mh,
@@ -2325,9 +2309,9 @@
   isbn      = {9781119098713,9781119098591},
   url       = {https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch1},
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
-               Books;3\_Upgrade OCT 2023;TCOT 2024;\_BibTex to MD Git;\_In
-               ClickUp;\_In Notion;\_In Readwise;ePub;UCL;Workplace
-               Learning;\_Mark Up;VET;Book (child)}
+               Books;3\_Upgrade OCT 2023;TCOT 2024;\_BibTex to MD
+               Git;llm-wiki-workflow;\_In ClickUp;\_In Notion;\_In
+               Readwise;ePub;UCL;Workplace Learning;\_Mark Up;VET;Book (child)}
 }
 
 @INBOOK{Fuller2019-zb,
@@ -2358,9 +2342,9 @@
                progression.},
   url       = {https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch5},
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
-               Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;\_In ClickUp;\_In
-               Notion;\_In Readwise;\_Mark Up;VET;Workplace
-               Learning;UCL;ePub;Book (child)}
+               Books;3\_Upgrade OCT 2023;\_BibTex to MD
+               Git;llm-wiki-workflow;\_In ClickUp;\_In Notion;\_In
+               Readwise;\_Mark Up;VET;Workplace Learning;UCL;ePub;Book (child)}
 }
 
 @ARTICLE{Farber2002-uc,
@@ -2386,7 +2370,8 @@
                   analysis shows that the fall in election activity preceded
                   these developments.},
   url          = {https://onlinelibrary.wiley.com/doi/10.1111/1467-8543.00240},
-  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD Git;Economics;Labor},
+  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD
+                  Git;llm-wiki-workflow;Economics;Labor},
   language     = {en}
 }
 
@@ -2429,7 +2414,7 @@
                  and dynamic nature.},
   url         = {https://www.voced.edu.au/content/ngv:80380},
   keywords    = {WALF - Improving Working as Learning ;3\_Upgrade OCT
-                 2023;\_BibTex to MD Git;UCL;\_In Notion;\_In
+                 2023;\_BibTex to MD Git;llm-wiki-workflow;UCL;\_In Notion;\_In
                  Readwise;VET;Workplace Learning;\_New Literature;Essential;\_In
                  ClickUp}
 }
@@ -2455,7 +2440,8 @@
                are posed by these problems.},
   url       = {https://repositories.lib.utexas.edu/handle/2152/114257},
   keywords  = {3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;\_In Notion;\_In Readwise;AEC;Labor;\_New Literature},
+               Git;llm-wiki-workflow;\_In Notion;\_In Readwise;AEC;Labor;\_New
+               Literature},
   language  = {en}
 }
 
@@ -2475,7 +2461,8 @@
   urldate      = {2023-10-08},
   keywords     = {Vocational Education; Public Schools; High School Graduates;
                   Credits; Academic Education; Educational Trends;Government
-                  Report;3\_Upgrade OCT 2023;\_BibTex to MD Git;Labor;Statistics},
+                  Report;3\_Upgrade OCT 2023;\_BibTex to MD
+                  Git;llm-wiki-workflow;Labor;Statistics},
   language     = {en}
 }
 
@@ -2508,7 +2495,7 @@
                   developments.},
   url          = {https://doi.org/10.1080/1743727X.2012.675555},
   keywords     = {Rapid Qualitative Research;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;Research Methods;Fieldwork Methodology}
+                  Git;llm-wiki-workflow;Research Methods;Fieldwork Methodology}
 }
 
 @ARTICLE{Unwin2007-pk,
@@ -2542,8 +2529,9 @@
                   highlight the impact of context on pedagogical practice.},
   url          = {https://doi.org/10.1080/14681360701602232},
   keywords     = {Rapid Qualitative Research;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;\_In Notion;\_In Readwise;UCL;VET;Workplace Learning;\_New
-                  Literature;Fieldwork Methodology;Research Methods}
+                  Git;llm-wiki-workflow;\_In Notion;\_In
+                  Readwise;UCL;VET;Workplace Learning;\_New Literature;Fieldwork
+                  Methodology;Research Methods}
 }
 
 @ARTICLE{Ord2012-tv,
@@ -2568,7 +2556,7 @@
                   work practice.},
   url          = {https://api.semanticscholar.org/CorpusID:150042620},
   keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD
-                  Git;Education;Knowledge - Skill Acquisition}
+                  Git;llm-wiki-workflow;Education;Knowledge - Skill Acquisition}
 }
 
 @REPORT{Barbosa2017-rj,
@@ -2585,7 +2573,7 @@
                  Frontiers;Frontiers [2022];Construction 4-0;UCL Poster Q1
                  2023;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
                  PWC;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                 Git;Cited for Frontiers;AEC}
+                 Git;llm-wiki-workflow;Cited for Frontiers;AEC}
 }
 
 @REPORT{Renz2016-br,
@@ -2601,8 +2589,9 @@
   date        = {2016-05-06},
   pagetotal   = {64},
   keywords    = {2\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade
-                 OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
-                 Notion;\_In Readwise;AEC;\_New Literature},
+                 OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                 Git;llm-wiki-workflow;\_In Notion;\_In Readwise;AEC;\_New
+                 Literature},
   origdate    = {2016-05-06}
 }
 
@@ -2620,8 +2609,8 @@
   isbn      = {9789811910289,9789811910296},
   url       = {http://dx.doi.org/10.1007/978-981-19-1029-6_42},
   keywords  = {Construction 4-0;00\_TO READ;3\_Upgrade OCT 2023;AEC Cited Lit
-               for Jacqui;\_BibTex to MD Git;\_In Notion;\_In Readwise;\_New
-               Literature;AEC;Important}
+               for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In Notion;\_In
+               Readwise;\_New Literature;AEC;Important}
 }
 
 @ARTICLE{Wang2022-gx,
@@ -2686,8 +2675,8 @@
                   any way to increase workplace learning should be of extra
                   value, as employees otherwise may not engage in it at all.},
   url          = {https://journals.sub.uni-hamburg.de/hup2/ijrvet/article/view/900},
-  keywords     = {Supplement Feedback Document;\_BibTex to MD Git;Fieldwork
-                  Methodology;Research Methods}
+  keywords     = {Supplement Feedback Document;\_BibTex to MD
+                  Git;llm-wiki-workflow;Fieldwork Methodology;Research Methods}
 }
 
 @ARTICLE{Veile2019-es,
@@ -2737,8 +2726,8 @@
                   Industry 4.0 implementation, directly obtained from industrial
                   application.},
   url          = {https://doi.org/10.1108/JMTM-08-2018-0270},
-  keywords     = {Supplement Feedback Document;\_BibTex to MD Git;Fieldwork
-                  Methodology;Research Methods}
+  keywords     = {Supplement Feedback Document;\_BibTex to MD
+                  Git;llm-wiki-workflow;Fieldwork Methodology;Research Methods}
 }
 
 @ARTICLE{Fleming2018-rg,
@@ -2774,9 +2763,9 @@
                   around informed consent, conflict of interest, risk of harm
                   and confidentiality.},
   url          = {https://eric.ed.gov/?id=EJ1196755},
-  keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD Git;\_In Notion;\_In
-                  Readwise;Fieldwork Methodology;PhD Support and
-                  Training;Research Methods}
+  keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD
+                  Git;llm-wiki-workflow;\_In Notion;\_In Readwise;Fieldwork
+                  Methodology;PhD Support and Training;Research Methods}
 }
 
 @ARTICLE{Lucas2018-na,
@@ -2807,8 +2796,8 @@
                   nature of WIL.},
   url          = {https://eric.ed.gov/?id=EJ1196748},
   keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD Git;Case-Study
-                  Research;\_In Notion;\_In Readwise;Fieldwork Methodology;PhD
-                  Support and Training;Research Methods}
+                  Research;llm-wiki-workflow;\_In Notion;\_In Readwise;Fieldwork
+                  Methodology;PhD Support and Training;Research Methods}
 }
 
 @ARTICLE{Glassman2001-cg,
@@ -2853,7 +2842,8 @@
                   explored in terms of how they might impact actual classroom
                   strategies and curriculum.},
   url          = {http://www.jstor.org/stable/3594354},
-  keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD Git;\_In Notion;\_In
+  keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD
+                  Git;llm-wiki-workflow;\_In Notion;\_In
                   Readwise;Education;Knowledge - Skill Acquisition}
 }
 
@@ -2888,8 +2878,9 @@
   url       = {https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-14/impact-organisational-learning-change-offsite-manufacturing-christian-thuesen-bar%C4%B1%C5%9F-bekdik},
   keywords  = {Offsite Production and Manufacturing for Innovative
                Construction;Upgrade Viva Prep Reading;AEC Cited Lit for
-               Jacqui;\_BibTex to MD Git;Cross Ref Chapter;AEC;Workplace
-               Learning;Fieldwork Methodology;Research Methods;Essential}
+               Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cross Ref
+               Chapter;AEC;Workplace Learning;Fieldwork Methodology;Research
+               Methods;Essential}
 }
 
 @ARTICLE{Acemoglu2019-rl,
@@ -2929,7 +2920,8 @@
                   in previous decades.},
   url          = {https://pubs.aeaweb.org/doi/10.1257/jep.33.2.3},
   urldate      = {2023-10-03},
-  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD Git;\_In Notion;\_In
+  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD Git;llm-wiki-workflow;\_In
+                  Notion;\_In
                   Readwise;Automation;Labor;Robots;Economics;Technological
                   change}
 }
@@ -2994,8 +2986,8 @@
                   commentary on some limitations of the Special Issue.},
   url          = {http://dx.doi.org/10.1080/01446193.2022.2141432},
   keywords     = {Construction 4-0;Notion Catalogued;3\_Upgrade OCT 2023;AEC
-                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC;UCL;\_In
-                  ClickUp;\_Cataloged}
+                  Cited Lit for Jacqui;\_BibTex to MD
+                  Git;llm-wiki-workflow;AEC;UCL;\_In ClickUp;\_Cataloged}
 }
 
 @INPROCEEDINGS{Olsen2012-gr,
@@ -3008,8 +3000,9 @@
   pages       = {11--14},
   date        = {2012},
   keywords    = {Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-                 Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
-                 Notion;\_Mark Up;Cited for Frontiers}
+                 Cited Lit for Jacqui;\_BibTex to MD
+                 Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_Mark Up;Cited for
+                 Frontiers}
 }
 
 @INBOOK{Hager2013-ey,
@@ -3027,7 +3020,41 @@
   url       = {https://sk.sagepub.com/reference/hdbk_workplacelearning/n2.xml},
   keywords  = {SAGE Handbook of Workplace Learning;00\_TO READ;EPubs
                Books;Upgrade Viva Prep Reading;\_BibTex to MD Git;Critical
-               Realism;\_New Literature;Workplace Learning;ePub;Important;\_In
-               ClickUp;\_In Notion;\_In Readwise;Cross Ref Chapter;Readwise
-               Reader;Book (child)}
+               Realism;llm-wiki-workflow;\_New Literature;Workplace
+               Learning;ePub;Important;\_In ClickUp;\_In Notion;\_In
+               Readwise;Cross Ref Chapter;Readwise Reader;Book (child)}
+}
+
+@ARTICLE{Fuller2003-fy,
+  title        = {Learning as Apprentices in the Contemporary {UK} Workplace:
+                  Creating and Managing Expansive and Restrictive Participation},
+  author       = {Fuller, Alison and Unwin, Lorna},
+  journaltitle = {Journal of Education and Work},
+  publisher    = {Routledge},
+  volume       = {16},
+  issue        = {4},
+  pages        = {407--426},
+  date         = {2003-12-01},
+  doi          = {10.1080/1363908032000093012},
+  issn         = {1363-9080},
+  abstract     = {Situated learning theory provides a rich conceptual framework
+                  for analysing the processes by which apprentices become (full)
+                  participants in a community of practice. This article uses
+                  case study evidence from the UK's Modern Apprenticeship
+                  programme to show how this framework can be developed by
+                  identifying features of expansive and restrictive
+                  participation which help distinguish between different
+                  approaches to apprenticeship. We suggest that three
+                  inter-related themes (participation, personal development and
+                  institutional arrangements) underpin an expansive/restrictive
+                  continuum. The analysis is used to categorise company
+                  approaches to apprenticeship according to their expansive and
+                  restrictive characteristics, and to illustrate the variable
+                  learning opportunities that are being created for apprentices
+                  under the Modern Apprenticeship.},
+  url          = {https://doi.org/10.1080/1363908032000093012},
+  keywords     = {Journal Articles;VET-TVET;Theory and Methods;3\_Upgrade OCT
+                  2023;\_BibTex to MD Git;llm-wiki-workflow;Workplace
+                  Learning;Knowledge - Skill Acquisition;VET;UCL;\_In
+                  Readwise;\_In Notion;Research Methods;\_Mark Up}
 }
