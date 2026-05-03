@@ -581,7 +581,6 @@
                structures, as well as the social relations of work groups and
                ‘communities of practice’ external to the workplace.},
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-25/conclusion-alison-fuller-anne-munro-helen-rainbird},
-  urldate   = {2023-09-04},
   keywords  = {Workplace Learning in Context;EPubs Books;3\_Upgrade OCT
                2023;\_BibTex to MD Git;003\_Theoretical Framework;\_In
                ClickUp;\_In Notion;\_In Readwise;Cross Ref
@@ -624,6 +623,7 @@
 @BOOK{Fuller2004-kj,
   title     = {Workplace Learning in Context},
   author    = {Fuller, Alison and Munro, Anne and Rainbird, Helen},
+  editor    = {Fuller, Alison and Munro, Anne and Rainbird, Helen},
   publisher = {Taylor \& Francis},
   date      = {2004-01-22},
   pagetotal = {336},
@@ -683,7 +683,6 @@
                they also provide the basis for the integration of personal and
                organizational development.},
   url       = {https://www.taylorfrancis.com/chapters/edit/10.4324/9780203571644-14/expansive-learning-environments-alison-fuller-lorna-unwin},
-  urldate   = {2023-09-04},
   keywords  = {Workplace Learning in Context;EPubs Books;3\_Upgrade OCT
                2023;\_BibTex to MD Git;003\_Theoretical Framework;\_In
                ClickUp;\_In Notion;\_In Readwise;Cross Ref
