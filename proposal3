@@ -554,6 +554,7 @@
 @INBOOK{Fuller2004-ys,
   title     = {Conclusion},
   author    = {Fuller, Alison and Munro, Anne and Rainbird, Helen},
+  editor    = {Fuller, Alison and Munro, Anne and Rainbird, Helen},
   booktitle = {Workplace Learning in Context},
   publisher = {Routledge},
   edition   = {1st Edition},
@@ -694,6 +695,7 @@
   title     = {Conceptualizing Vocational Knowledge: Some Theoretical
                Considerations},
   author    = {Young, Michael},
+  editor    = {Fuller, Alison and Munro, Anne and Rainbird, Helen},
   booktitle = {Workplace Learning in Context},
   publisher = {Routledge},
   pages     = {201--216},
@@ -832,6 +834,7 @@
   title     = {The Context of Learning in Professional Work Environments:
                Insights From the Accountancy Profession},
   author    = {Hoskin, Keith and Anderson-Gough, Fiona},
+  editor    = {Fuller, Alison and Munro, Anne and Rainbird, Helen},
   booktitle = {Workplace Learning in Context},
   publisher = {Routledge},
   edition   = {1st Edition},
