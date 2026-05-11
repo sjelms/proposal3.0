@@ -687,7 +687,7 @@
   url          = {https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it?utm_campaign=editorial-social&utm_medium=social-organic&utm_source=youtube},
   urldate      = {2023-04-19},
   keywords     = {2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;Website;Readwise Reader},
+                  Git;Website;Reader\_Obsidian},
   language     = {en}
 }
 
@@ -2107,7 +2107,7 @@
   url          = {https://www.npr.org/2023/04/06/1158576556/where-did-the-workers-go-construction-jobs-are-plentiful-but-workers-are-scarce},
   urldate      = {2023-09-29},
   keywords     = {3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;Readwise Reader;Website;Labor;Statistics;\_Mark Up;AEC}
+                  Git;Reader\_Obsidian;Website;Labor;Statistics;\_Mark Up;AEC}
 }
 
 @MISC{Tucker1999-ml,
@@ -2598,7 +2598,7 @@
                   and Voigt, Kai-Ingo},
   journaltitle = {International Journal of Manufacturing Technology and
                   Management},
-  publisher    = {Emerald Publishing Limited},
+  publisher    = {Emerald},
   volume       = {31},
   issue        = {5},
   pages        = {977--997},
@@ -2637,7 +2637,7 @@
                   give specific and concrete examples for lessons learned from
                   Industry 4.0 implementation, directly obtained from industrial
                   application.},
-  url          = {https://doi.org/10.1108/JMTM-08-2018-0270},
+  url          = {http://dx.doi.org/10.1108/JMTM-08-2018-0270},
   keywords     = {Supplement Feedback Document;\_BibTex to MD
                   Git;llm-wiki-workflow;Fieldwork Methodology;Research Methods}
 }
@@ -2773,7 +2773,7 @@
   url          = {https://doi.org/10.1007/s10972-015-9443-2},
   keywords     = {Upgrade Viva Prep Reading;\_In Notion;\_In
                   Readwise;Essential;Fieldwork Methodology;PhD Support and
-                  Training;Research Methods;Readwise Reader}
+                  Training;Research Methods;Reader\_Obsidian}
 }
 
 @INBOOK{Thuesen2019-fv,
@@ -2988,7 +2988,7 @@
                Books;Upgrade Viva Prep Reading;\_BibTex to MD Git;Critical
                Realism;llm-wiki-workflow;003\_Theoretical Framework;\_New
                Literature;Workplace Learning;ePub;Important;\_In ClickUp;\_In
-               Notion;\_In Readwise;Cross Ref Chapter;Readwise Reader;Book
+               Notion;\_In Readwise;Cross Ref Chapter;Reader\_Obsidian;Book
                (child)}
 }
 
