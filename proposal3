@@ -2309,17 +2309,16 @@
   issue        = {4},
   pages        = {381--400},
   date         = {1999-08-01},
-  doi          = {10.1287/orsc.10.4.381},
   issn         = {1047-7039},
   abstract     = {Much current work on organizational knowledge, intellectual
                   capital, knowledge-creating organizations, knowledge work, and
                   the like rests on a single, traditional understanding of the
                   nature of knowledge. We call this understanding the
-                  ?epistemology of possession,? since it treats knowledge as
+                  “epistemology of possession,” since it treats knowledge as
                   something people possess. Yet, this epistemology cannot
                   account for the knowing found in individual and group
-                  practice. Knowing as action calls for an ?epistemology of
-                  practice.? Moreover, the epistemology of possession tends to
+                  practice. Knowing as action calls for an “epistemology of
+                  practice.” Moreover, the epistemology of possession tends to
                   privilege explicit over tacit knowledge, and knowledge
                   possessed by individuals over that possessed by groups.
                   Current work on organizations is limited by this privileging
@@ -2342,7 +2341,6 @@
                   management of intellectual capital, etc. We explore these
                   views through three brief case studies drawn from recent
                   research.},
-  url          = {https://doi.org/10.1287/orsc.10.4.381},
   keywords     = {3\_Upgrade OCT 2023;Upgrade Viva Prep Reading;\_BibTex to MD
                   Git;llm-wiki-workflow}
 }
