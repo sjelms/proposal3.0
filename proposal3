@@ -8,7 +8,7 @@
   pagetotal   = {62},
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD
-                 Git;llm-wiki-workflow;AEC;\_New Literature}
+                 Git;llm-wiki-workflow;AEC;\_New Literature;git-lit}
 }
 
 @REPORT{Smith2023-fp,
@@ -41,7 +41,8 @@
                  Report;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
                  MD Git;EPubs Books;BSSC Seed Fund for AI
                  Research;llm-wiki-workflow;Offsite\_NBLM;AEC;Important;\_Mark
-                 Up;Essential;\_Cataloged;\_In ClickUp;Report;ePub;Training}
+                 Up;Essential;\_Cataloged;\_In
+                 ClickUp;Report;ePub;Training;git-lit}
 }
 
 @BOOK{Frey2019-yf,
@@ -107,7 +108,7 @@
                in the Faculty of Education at the University of Brunei.},
   url       = {https://play.google.com/store/books/details?id=aP3tAAAAMAAJ},
   keywords  = {Rapid Qualitative Research;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;Fieldwork Methodology;Research Methods},
+               Git;Fieldwork Methodology;Research Methods;git-lit},
   language  = {en}
 }
 
@@ -177,7 +178,7 @@
                Cognition at the Universty of California, San Diego.},
   url       = {https://play.google.com/store/books/details?id=g7Lj-noq-1oC},
   keywords  = {3\_Upgrade OCT 2023;\_BibTex to MD Git;\_In Notion;\_In
-               Readwise;VET;Workplace Learning;\_New Literature},
+               Readwise;VET;Workplace Learning;\_New Literature;git-lit},
   language  = {en}
 }
 
@@ -298,7 +299,7 @@
   url         = {https://www.architecture.com/knowledge-and-resources/resources-landing-page/dfma-overlay-to-the-riba-plan-of-work},
   keywords    = {2\_Upgrade MAY 2023;Construction 4-0;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
-                 Notion;\_In Readwise;\_New Literature},
+                 Notion;\_In Readwise;\_New Literature;git-lit},
   origtitle   = {DfMA Overlay to the RIBA Plan of Work: Mainstreaming Design for
                  Manufacture and Assembly In Construction}
 }
@@ -657,7 +658,8 @@
   pages        = {117--122},
   date         = {2005},
   issn         = {1477-7029},
-  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD Git;llm-wiki-workflow}
+  keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD
+                  Git;llm-wiki-workflow;git-lit}
 }
 
 @REPORT{Cole2023-zp,
@@ -670,7 +672,7 @@
   url         = {https://www.makeuk.org/insights/reports/who-will-be-the-builders-modulars-role-in-solving-the-housing-labour-crisis},
   keywords    = {Construction 4-0;00\_TO READ;3\_Upgrade OCT 2023;AEC Cited Lit
                  for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In
-                 Notion;\_In Readwise;AEC;Labor},
+                 Notion;\_In Readwise;AEC;Labor;git-lit},
   origtitle   = {Who Will Be the Builders? Modular’s Role in Solving the Housing
                  Labour Crisis}
 }
@@ -687,7 +689,7 @@
   url          = {https://www.economist.com/international/2023/04/03/was-your-degree-really-worth-it?utm_campaign=editorial-social&utm_medium=social-organic&utm_source=youtube},
   urldate      = {2023-04-19},
   keywords     = {2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;Website;Reader\_Obsidian},
+                  Git;Website;Reader\_Obsidian;git-lit},
   language     = {en}
 }
 
@@ -700,7 +702,7 @@
   date        = {2022-11-11},
   pagetotal   = {12},
   keywords    = {Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC Cited
-                 Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC}
+                 Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;git-lit}
 }
 
 @BOOK{Engestrom1999-iv,
@@ -708,7 +710,7 @@
   author   = {Engeström, Yrjö and Engeström, Ritva and Vähäaho, Tarja},
   volume   = {381},
   date     = {1999},
-  keywords = {3\_Upgrade OCT 2023;\_BibTex to MD Git}
+  keywords = {3\_Upgrade OCT 2023;\_BibTex to MD Git;git-lit}
 }
 
 @PHDTHESIS{Jadallah2021-bu,
@@ -850,7 +852,7 @@
   keywords    = {2\_Upgrade MAY 2023;Construction 4-0;00\_TO READ;3\_Upgrade OCT
                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_In Readwise;\_New
-                 Literature;\_In ClickUp}
+                 Literature;\_In ClickUp;git-lit}
 }
 
 @INBOOK{Casini2022-zx,
@@ -895,7 +897,7 @@
   keywords  = {Marco Casini Construction 4-0;2\_Upgrade MAY 2023;00\_TO
                READ;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_In
-               Readwise;Essential;\_In ClickUp;Economics}
+               Readwise;Essential;\_In ClickUp;Economics;git-lit}
 }
 
 @BOOK{Ahmed2016-mt,
@@ -920,7 +922,7 @@
                Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
                Books;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;\_New Literature;AEC;Research Methods;UCL;ePub;\_In
-               ClickUp;Book (parent)}
+               ClickUp;Book (parent);git-lit}
 }
 
 @ARTICLE{Wang2008-rq,
@@ -945,7 +947,7 @@
   keywords     = {Notion Catalogued;2\_Upgrade MAY 2023;Journal
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
                   to MD Git;llm-wiki-workflow;AEC;Workplace Learning;\_Mark
-                  Up;\_Cataloged},
+                  Up;\_Cataloged;git-lit},
   language     = {en}
 }
 
@@ -985,7 +987,7 @@
   url       = {https://www.routledge.com/Validity-and-Reliability-in-Built-Environment-Research-A-Selection-of-Case/Ahmed-Opoku-Olanipekun-Sutrisna/p/book/9780367197803},
   keywords  = {Grounded Theory;EPubs Books;3\_Upgrade OCT 2023;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;ePub;AEC;Research Methods;\_New
-               Literature},
+               Literature;git-lit},
   language  = {en}
 }
 
@@ -1017,7 +1019,7 @@
   keywords  = {Construction 4-0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
                MAY 2023;00\_TO READ;EPubs Books;3\_Upgrade OCT 2023;AEC Cited
                Lit for Jacqui;\_BibTex to MD Git;Offsite\_NBLM;AEC;ePub;\_Mark
-               Up;\_Cataloged;Book (parent);RNIB},
+               Up;\_Cataloged;Book (parent);RNIB;git-lit},
   language  = {en}
 }
 
@@ -1060,7 +1062,8 @@
   keywords     = {AEC;Construction 4-0;Notion Catalogued;UCL Poster Q1
                   2023;2\_Upgrade MAY 2023;Journal Articles;3\_Upgrade OCT
                   2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;llm-wiki-workflow;AEC;\_Mark Up;\_In Readwise;\_Cataloged},
+                  Git;llm-wiki-workflow;AEC;\_Mark Up;\_In
+                  Readwise;\_Cataloged;git-lit},
   language     = {en}
 }
 
@@ -1101,7 +1104,7 @@
   url        = {http://dx.doi.org/10.29007/4nk3},
   keywords   = {Construction 4-0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
                 MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                to MD Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged}
+                to MD Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged;git-lit}
 }
 
 @ARTICLE{Oesterreich2016-yo,
@@ -1142,7 +1145,7 @@
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
                   to MD
                   Git;llm-wiki-workflow;Offsite\_NBLM;AEC;Automation;Important;\_Mark
-                  Up;Essential;\_Cataloged;\_In ClickUp}
+                  Up;Essential;\_Cataloged;\_In ClickUp;git-lit}
 }
 
 @ARTICLE{Bertram2019-rb,
@@ -1168,7 +1171,7 @@
                   2023;2\_Upgrade MAY 2023;00\_TO READ;Journal Articles;Deloitte
                   - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC Cited Lit for
                   Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;\_Mark
-                  Up;\_Cataloged;\_In ClickUp}
+                  Up;\_Cataloged;\_In ClickUp;git-lit}
 }
 
 @ARTICLE{Killingsworth2013-qe,
@@ -1201,7 +1204,7 @@
                   Articles;3\_Upgrade OCT 2023;\_BibTex to MD
                   Git;llm-wiki-workflow;Knowledge - Skill Acquisition;Workplace
                   Learning;Research Methods;\_In Notion;\_In Readwise;\_New
-                  Literature}
+                  Literature;git-lit}
 }
 
 @ARTICLE{Russell2007-qq,
@@ -1223,7 +1226,7 @@
                   2023;\_BibTex to MD
                   Git;llm-wiki-workflow;Marx\_Labor;Construction 4-0;Knowledge -
                   Skill Acquisition;Workplace Learning;\_In Notion;\_In
-                  Readwise;\_New Literature}
+                  Readwise;\_New Literature;git-lit}
 }
 
 @BOOK{Kumar2019-dp,
@@ -1265,7 +1268,8 @@
   keywords  = {Theory and Methods;2\_Upgrade MAY 2023;00\_TO READ;EPubs
                Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;PhD Study and
                Support;llm-wiki-workflow;Thesis Writing;ePub;Research
-               Methods;\_In Notion;\_In Readwise;Important;Read;Book (physical)},
+               Methods;\_In Notion;\_In Readwise;Important;Read;Book
+               (physical);git-lit},
   language  = {en}
 }
 
@@ -1301,7 +1305,7 @@
   keywords   = {Construction 4-0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;Notion
                 Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
                 to MD Git;llm-wiki-workflow;AEC;\_Mark Up;\_Cataloged;\_In
-                ClickUp}
+                ClickUp;git-lit}
 }
 
 @MISC{Marcus2023-rl,
@@ -1317,7 +1321,7 @@
   url          = {https://www.npr.org/2023/02/14/1155405249/high-paying-jobs-that-dont-need-a-college-degree-thousands-of-them-are-sitting-e},
   urldate      = {2023-05-01},
   keywords     = {2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;Website}
+                  Git;Website;git-lit}
 }
 
 @INBOOK{Booth2001-fr,
@@ -1349,7 +1353,7 @@
                shared between parties.},
   url       = {https://www.sciencedirect.com/science/article/pii/B0080430767022877},
   keywords  = {2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Labor;Workplace Learning}
+               Git;llm-wiki-workflow;Labor;Workplace Learning;git-lit}
 }
 
 @INBOOK{Herod2009-pg,
@@ -1393,7 +1397,8 @@
                Politics of scale; Soviet model of unionism; Trades Union
                Congress (TUC); World Federation of Trade Unions;2\_Upgrade MAY
                2023;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;llm-wiki-workflow;Marx\_Labor;Labor;Workplace Learning}
+               Git;llm-wiki-workflow;Marx\_Labor;Labor;Workplace
+               Learning;git-lit}
 }
 
 @INBOOK{Smith2017-ff,
@@ -1428,7 +1433,7 @@
   url       = {https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-8},
   keywords  = {Offsite Architecture: Constructing the Future;3\_Upgrade OCT
                2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;EPubs Books;\_In
-               ClickUp;\_In Notion;\_In Readwise;ePub;Book (child)}
+               ClickUp;\_In Notion;\_In Readwise;ePub;Book (child);git-lit}
 }
 
 @INBOOK{Fuller2004-ys,
@@ -1465,7 +1470,7 @@
                2023;\_BibTex to MD Git;003\_Theoretical
                Framework;llm-wiki-workflow;\_In ClickUp;\_In Notion;\_In
                Readwise;Cross Ref Chapter;ePub;VET;Workplace Learning;\_New
-               Literature;UCL;Book (child)}
+               Literature;UCL;Book (child);git-lit}
 }
 
 @BOOK{Vygotsky1978-pz,
@@ -1506,7 +1511,7 @@
                Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;BSSC Seed Fund for
                AI Research;003\_Theoretical Framework;Mind in
                Society;ePub;Knowledge - Skill Acquisition;Psychology;Book
-               (parent);Philosophy of Education},
+               (parent);Philosophy of Education;git-lit},
   language  = {en}
 }
 
@@ -1533,7 +1538,7 @@
   keywords    = {Construction 4-0;2\_Upgrade MAY 2023;00\_TO READ;3\_Upgrade OCT
                  2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;\_In Notion;\_In
-                 Readwise;AEC;Important;\_New Literature}
+                 Readwise;AEC;Important;\_New Literature;git-lit}
 }
 
 @BOOK{Aurini2021-vc,
@@ -1564,7 +1569,7 @@
                project.},
   url       = {https://play.google.com/store/books/details?id=gto6EAAAQBAJ},
   keywords  = {Theory and Methods;EPubs Books;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;Research Methods;ePub},
+               Git;Research Methods;ePub;git-lit},
   language  = {en}
 }
 
@@ -1623,7 +1628,8 @@
                   2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;003\_Theoretical Framework;AEC;Research
                   Methods;Workplace Learning;\_Mark Up;Knowledge - Skill
-                  Acquisition;Training;Skill demand;Labor;\_Cataloged;Essential},
+                  Acquisition;Training;Skill
+                  demand;Labor;\_Cataloged;Essential;git-lit},
   language     = {en}
 }
 
@@ -1648,7 +1654,7 @@
   url       = {https://www.cambridge.org/core/books/from-teams-to-knots/E37D0858F603DE6A88281FA0D46BD856},
   keywords  = {EPubs Books;3\_Upgrade OCT 2023;\_BibTex to MD
                Git;llm-wiki-workflow;\_In Notion;\_In Readwise;Workplace
-               Learning;\_New Literature},
+               Learning;\_New Literature;git-lit},
   language  = {en}
 }
 
@@ -1686,7 +1692,7 @@
                   READ;Notion Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for
                   Jacqui;\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
                   Framework;UCL;Workplace Learning;AEC;\_In ClickUp;\_Mark
-                  Up;\_Cataloged}
+                  Up;\_Cataloged;git-lit}
 }
 
 @REPORT{Felstead2011-az,
@@ -1720,7 +1726,7 @@
   keywords    = {WALF - Improving Working as Learning ;3\_Upgrade OCT
                  2023;\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
                  Framework;003\_NBLM;\_In Notion;\_In Readwise;\_In
-                 ClickUp;Workplace Learning;VET;UCL;\_Mark Up},
+                 ClickUp;Workplace Learning;VET;UCL;\_Mark Up;git-lit},
   language    = {en}
 }
 
@@ -1754,7 +1760,7 @@
                Books;3\_Upgrade OCT 2023;\_BibTex to MD
                Git;llm-wiki-workflow;Braverman;Marx\_Labor;\_In ClickUp;\_In
                Notion;\_In Readwise;ePub;UCL;Workplace Learning;\_Mark
-               Up;VET;Book (child)}
+               Up;VET;Book (child);git-lit}
 }
 
 @INBOOK{Guile2019-mh,
@@ -1774,7 +1780,8 @@
   keywords  = {Handbook of Vocational Education and Training-Wiley 2019;EPubs
                Books;3\_Upgrade OCT 2023;TCOT 2024;\_BibTex to MD
                Git;llm-wiki-workflow;\_In ClickUp;\_In Notion;\_In
-               Readwise;ePub;UCL;Workplace Learning;\_Mark Up;VET;Book (child)}
+               Readwise;ePub;UCL;Workplace Learning;\_Mark Up;VET;Book
+               (child);git-lit}
 }
 
 @INBOOK{Fuller2019-zb,
@@ -1808,7 +1815,7 @@
                Books;3\_Upgrade OCT 2023;\_BibTex to MD
                Git;llm-wiki-workflow;Braverman;003\_Theoretical Framework;\_In
                ClickUp;\_In Notion;\_In Readwise;\_Mark Up;VET;Workplace
-               Learning;UCL;ePub;Book (child)}
+               Learning;UCL;ePub;Book (child);git-lit}
 }
 
 @BOOK{Fuller2004-kj,
@@ -1845,7 +1852,7 @@
                Framework;llm-wiki-workflow;Braverman;Marx\_Labor;\_In
                Notion;\_In Readwise;ePub;UCL;VET;Workplace Learning;\_New
                Literature;\_In ClickUp;Book (parent);Book (child);Cross Ref
-               Chapter},
+               Chapter;git-lit},
   language  = {en}
 }
 
@@ -1881,7 +1888,7 @@
                Framework;llm-wiki-workflow;Marx\_Labor;003\_NBLM;ERC-ex-re;\_In
                ClickUp;\_In Notion;\_In Readwise;Cross Ref
                Chapter;ePub;VET;Workplace Learning;\_New Literature;UCL;Book
-               (child)}
+               (child);git-lit}
 }
 
 @INBOOK{Young2004-fs,
@@ -1898,7 +1905,7 @@
   keywords  = {Workplace Learning in Context;EPubs Books;3\_Upgrade OCT
                2023;\_BibTex to MD Git;llm-wiki-workflow;\_In ClickUp;\_In
                Notion;\_In Readwise;Cross Ref Chapter;ePub;VET;Workplace
-               Learning;\_New Literature;Book (child)}
+               Learning;\_New Literature;Book (child);git-lit}
 }
 
 @BOOK{Billett2011-kx,
@@ -1935,7 +1942,7 @@
   url       = {https://play.google.com/store/books/details?id=67uMALdMD-8C},
   keywords  = {EPubs Books;3\_Upgrade OCT 2023;\_BibTex to MD Git;\_In
                Notion;\_In Readwise;ePub;VET;Workplace Learning;\_New
-               Literature;\_In ClickUp},
+               Literature;\_In ClickUp;git-lit},
   language  = {en}
 }
 
@@ -1950,7 +1957,7 @@
   isbn      = {9781452242569},
   keywords  = {Rapid Qualitative Research;EPubs Books;3\_Upgrade OCT
                2023;\_BibTex to MD Git;Case-Study Research;Research
-               Methods;Fieldwork Methodology;ePub;\_In ClickUp},
+               Methods;Fieldwork Methodology;ePub;\_In ClickUp;git-lit},
   language  = {en}
 }
 
@@ -1966,7 +1973,7 @@
                Delays and 93 Percent Are Affected by Rising Materials Prices},
   url       = {https://www.agc.org/news/2021/09/02/construction-workforce-shortages-reach-pre-pandemic-levels-even-coronavirus},
   urldate   = {2023-09-28},
-  keywords  = {3\_Upgrade OCT 2023;\_BibTex to MD Git;Website},
+  keywords  = {3\_Upgrade OCT 2023;\_BibTex to MD Git;Website;git-lit},
   language  = {en}
 }
 
@@ -1994,7 +2001,7 @@
                   these developments.},
   url          = {https://onlinelibrary.wiley.com/doi/10.1111/1467-8543.00240},
   keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;llm-wiki-workflow;Economics;Labor},
+                  Git;llm-wiki-workflow;Economics;Labor;git-lit},
   language     = {en}
 }
 
@@ -2039,7 +2046,7 @@
   keywords    = {WALF - Improving Working as Learning ;3\_Upgrade OCT
                  2023;\_BibTex to MD Git;llm-wiki-workflow;003\_Theoretical
                  Framework;003\_NBLM;UCL;\_In Notion;\_In Readwise;VET;Workplace
-                 Learning;\_New Literature;Essential;\_In ClickUp}
+                 Learning;\_New Literature;Essential;\_In ClickUp;git-lit}
 }
 
 @MISC{Yang2023-qm,
@@ -2056,7 +2063,8 @@
   url          = {https://www.npr.org/2023/04/06/1158576556/where-did-the-workers-go-construction-jobs-are-plentiful-but-workers-are-scarce},
   urldate      = {2023-09-29},
   keywords     = {3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;Reader\_Obsidian;Website;Labor;Statistics;\_Mark Up;AEC}
+                  Git;Reader\_Obsidian;Website;Labor;Statistics;\_Mark
+                  Up;AEC;git-lit}
 }
 
 @MISC{Tucker1999-ml,
@@ -2081,7 +2089,7 @@
   url       = {https://repositories.lib.utexas.edu/handle/2152/114257},
   keywords  = {3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;llm-wiki-workflow;\_In Notion;\_In Readwise;AEC;Labor;\_New
-               Literature},
+               Literature;git-lit},
   language  = {en}
 }
 
@@ -2118,7 +2126,8 @@
   url       = {https://academic.oup.com/edited-volume/27995/chapter/211706311},
   keywords  = {Oxford Handbook of Skills and Training;3\_Upgrade OCT
                2023;\_BibTex to MD Git;EPubs Books;ePub;\_In Notion;\_In
-               Readwise;VET;Workplace Learning;\_New Literature;Book (child)}
+               Readwise;VET;Workplace Learning;\_New Literature;Book
+               (child);git-lit}
 }
 
 @ARTICLE{Hudson2013-id,
@@ -2138,7 +2147,7 @@
   keywords     = {Vocational Education; Public Schools; High School Graduates;
                   Credits; Academic Education; Educational Trends;Government
                   Report;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;llm-wiki-workflow;Labor;Statistics},
+                  Git;llm-wiki-workflow;Labor;Statistics;git-lit},
   language     = {en}
 }
 
@@ -2175,7 +2184,7 @@
   keywords  = {Workplace Learning in Context;3\_Upgrade OCT 2023;\_BibTex to MD
                Git;EPubs Books;llm-wiki-workflow;\_In Notion;\_In Readwise;Cross
                Ref Chapter;ePub;VET;Workplace Learning;\_New Literature;Book
-               (child)}
+               (child);git-lit}
 }
 
 @ARTICLE{Chong2013-nz,
@@ -2207,7 +2216,8 @@
                   developments.},
   url          = {https://doi.org/10.1080/1743727X.2012.675555},
   keywords     = {Rapid Qualitative Research;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;llm-wiki-workflow;Research Methods;Fieldwork Methodology}
+                  Git;llm-wiki-workflow;Research Methods;Fieldwork
+                  Methodology;git-lit}
 }
 
 @ARTICLE{Unwin2007-pk,
@@ -2244,7 +2254,7 @@
                   Git;llm-wiki-workflow;Braverman;003\_Theoretical
                   Framework;\_In Notion;\_In Readwise;UCL;VET;Workplace
                   Learning;\_New Literature;Fieldwork Methodology;Research
-                  Methods}
+                  Methods;git-lit}
 }
 
 @ARTICLE{Cook1999-yi,
@@ -2291,32 +2301,7 @@
                   research.},
   keywords     = {3\_Upgrade OCT 2023;Upgrade Viva Prep Reading;\_BibTex to MD
                   Git;llm-wiki-workflow;Knowledge - Skill Acquisition;Workplace
-                  Learning}
-}
-
-@ARTICLE{Ord2012-tv,
-  title        = {John Dewey and Experiential Learning: Developing the Theory of
-                  Youth Work},
-  author       = {Ord, Jon},
-  journaltitle = {Journal of Youth \& Policy},
-  volume       = {108},
-  date         = {2012-03},
-  abstract     = {Whilst experiential learning is an increasingly established
-                  aspect of youth work practice, in the main it is dominated by
-                  a simplistic four stage cycle which is attributed to Kolb
-                  (1984). However, it will be demonstrated in this article that
-                  this is a misinterpretation of Kolb's theory which results in
-                  a limited view of 'experience' within experiential learning.
-                  It is argued that not only a deeper understanding of Kolb's
-                  original theory is required, but a return must be made to John
-                  Dewey, perhaps the architect of experiential learning, to
-                  fully comprehend its importance. In so doing, a fuller
-                  appreciation of young people's experience is acquired, as well
-                  as a wider theoretical basis established for existing youth
-                  work practice.},
-  url          = {https://api.semanticscholar.org/CorpusID:150042620},
-  keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD
-                  Git;llm-wiki-workflow;Education;Knowledge - Skill Acquisition}
+                  Learning;git-lit}
 }
 
 @MISC{Lidelow2023-sm,
@@ -2342,7 +2327,7 @@
                 success in the industrialized construction industry.},
   url        = {https://cife.stanford.edu/events/industrialized-construction-forum-2023},
   keywords   = {Construction 4-0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-                Cited Lit for Jacqui;\_BibTex to MD Git;AEC}
+                Cited Lit for Jacqui;\_BibTex to MD Git;AEC;git-lit}
 }
 
 @BOOK{Felstead2009-kt,
@@ -2379,7 +2364,7 @@
   keywords  = {VET-TVET;EPubs Books;WALF - Improving Working as Learning
                ;3\_Upgrade OCT 2023;\_BibTex to MD Git;003\_Theoretical
                Framework;\_In Notion;\_In Readwise;UCL;VET;Workplace
-               Learning;ePub;\_Mark Up;Essential},
+               Learning;ePub;\_Mark Up;Essential;git-lit},
   language  = {en}
 }
 
@@ -2415,7 +2400,7 @@
   keywords    = {2\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade
                  OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;\_In Notion;\_In Readwise;AEC;\_New
-                 Literature},
+                 Literature;git-lit},
   origdate    = {2016-05-06}
 }
 
@@ -2462,7 +2447,7 @@
   url       = {http://dx.doi.org/10.1007/978-981-19-1029-6_42},
   keywords  = {Construction 4-0;00\_TO READ;3\_Upgrade OCT 2023;AEC Cited Lit
                for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;\_In Notion;\_In
-               Readwise;\_New Literature;AEC;Important}
+               Readwise;\_New Literature;AEC;Important;git-lit}
 }
 
 @ARTICLE{Wang2022-gx,
@@ -2528,7 +2513,8 @@
                   value, as employees otherwise may not engage in it at all.},
   url          = {https://journals.sub.uni-hamburg.de/hup2/ijrvet/article/view/900},
   keywords     = {Supplement Feedback Document;\_BibTex to MD
-                  Git;llm-wiki-workflow;Fieldwork Methodology;Research Methods}
+                  Git;llm-wiki-workflow;Fieldwork Methodology;Research
+                  Methods;git-lit}
 }
 
 @INBOOK{Bakker2019-lj,
@@ -2565,7 +2551,7 @@
   url       = {https://onlinelibrary.wiley.com/doi/10.1002/9781119098713.ch18},
   keywords  = {Supplement Feedback Document;Handbook of Vocational Education and
                Training-Wiley 2019;\_BibTex to MD Git;EPubs
-               Books;ERC-ex-re;ePub;UCL;Book (child);Workplace Learning}
+               Books;ERC-ex-re;ePub;UCL;Book (child);Workplace Learning;git-lit}
 }
 
 @ARTICLE{Veile2019-es,
@@ -2616,7 +2602,8 @@
                   application.},
   url          = {http://dx.doi.org/10.1108/JMTM-08-2018-0270},
   keywords     = {Supplement Feedback Document;\_BibTex to MD
-                  Git;llm-wiki-workflow;Fieldwork Methodology;Research Methods}
+                  Git;llm-wiki-workflow;Fieldwork Methodology;Research
+                  Methods;git-lit}
 }
 
 @ARTICLE{Fleming2018-rg,
@@ -2654,7 +2641,7 @@
   url          = {https://eric.ed.gov/?id=EJ1196755},
   keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD
                   Git;llm-wiki-workflow;\_In Notion;\_In Readwise;Fieldwork
-                  Methodology;PhD Support and Training;Research Methods}
+                  Methodology;PhD Support and Training;Research Methods;git-lit}
 }
 
 @ARTICLE{Lucas2018-na,
@@ -2686,7 +2673,7 @@
   url          = {https://eric.ed.gov/?id=EJ1196748},
   keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD Git;Case-Study
                   Research;llm-wiki-workflow;\_In Notion;\_In Readwise;Fieldwork
-                  Methodology;PhD Support and Training;Research Methods}
+                  Methodology;PhD Support and Training;Research Methods;git-lit}
 }
 
 @ARTICLE{Glassman2001-cg,
@@ -2733,7 +2720,7 @@
   url          = {http://www.jstor.org/stable/3594354},
   keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD
                   Git;llm-wiki-workflow;Marx\_Labor;\_In Notion;\_In
-                  Readwise;Education;Knowledge - Skill Acquisition}
+                  Readwise;Education;Knowledge - Skill Acquisition;git-lit}
 }
 
 @ARTICLE{Lederman2015-sl,
@@ -2788,7 +2775,7 @@
                Construction;Upgrade Viva Prep Reading;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cross Ref
                Chapter;AEC;Workplace Learning;Fieldwork Methodology;Research
-               Methods;Essential;Book (child)},
+               Methods;Essential;Book (child);git-lit},
   language  = {en}
 }
 
@@ -2831,7 +2818,33 @@
   url       = {http://dx.doi.org/10.1007/978-3-030-82430-3_13},
   keywords  = {Industry 4-0 for the Built Environment;EPubs Books;3\_Upgrade OCT
                2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;Offsite\_NBLM;ePub;Book (child)}
+               Git;Offsite\_NBLM;ePub;Book (child);git-lit}
+}
+
+@ARTICLE{Ord2012-tv,
+  title        = {John Dewey and Experiential Learning: Developing the Theory of
+                  Youth Work},
+  author       = {Ord, Jon},
+  journaltitle = {Journal of Youth \& Policy},
+  volume       = {108},
+  date         = {2012-03},
+  abstract     = {Whilst experiential learning is an increasingly established
+                  aspect of youth work practice, in the main it is dominated by
+                  a simplistic four stage cycle which is attributed to Kolb
+                  (1984). However, it will be demonstrated in this article that
+                  this is a misinterpretation of Kolb's theory which results in
+                  a limited view of 'experience' within experiential learning.
+                  It is argued that not only a deeper understanding of Kolb's
+                  original theory is required, but a return must be made to John
+                  Dewey, perhaps the architect of experiential learning, to
+                  fully comprehend its importance. In so doing, a fuller
+                  appreciation of young people's experience is acquired, as well
+                  as a wider theoretical basis established for existing youth
+                  work practice.},
+  url          = {https://api.semanticscholar.org/CorpusID:150042620},
+  keywords     = {Upgrade Viva Prep Reading;\_BibTex to MD
+                  Git;llm-wiki-workflow;Education;Knowledge - Skill
+                  Acquisition;git-lit}
 }
 
 @MISC{Stahl2023-dx,
@@ -2851,7 +2864,7 @@
   urldate   = {2023-10-09},
   keywords  = {60 Minutes; CBS News; 3D-printed houses; climate
                change;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-               MD Git;YouTube;AEC;Interview}
+               MD Git;YouTube;AEC;Interview;git-lit}
 }
 
 @ARTICLE{Acemoglu2019-rl,
@@ -2893,7 +2906,7 @@
   keywords     = {3\_Upgrade OCT 2023;\_BibTex to MD
                   Git;llm-wiki-workflow;Marx\_Labor;\_In Notion;\_In
                   Readwise;Automation;Labor;Robots;Economics;Technological
-                  change}
+                  change;git-lit}
 }
 
 @INBOOK{Lerman2017-ww,
@@ -2927,7 +2940,7 @@
   keywords  = {Oxford Handbook of Skills and Training;3\_Upgrade OCT
                2023;\_BibTex to MD Git;EPubs Books;003\_Theoretical
                Framework;ePub;\_In Notion;\_In Readwise;VET;Workplace
-               Learning;\_New Literature;Book (child)}
+               Learning;\_New Literature;Book (child);git-lit}
 }
 
 @ARTICLE{Glass2022-ms,
@@ -2992,7 +3005,7 @@
   keywords     = {Construction 4-0;Notion Catalogued;3\_Upgrade OCT 2023;AEC
                   Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;Offsite\_NBLM;AEC;UCL;\_In
-                  ClickUp;\_Cataloged}
+                  ClickUp;\_Cataloged;git-lit}
 }
 
 @INPROCEEDINGS{Olsen2012-gr,
@@ -3052,7 +3065,7 @@
                Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
                Books;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;AEC;Research Methods;UCL;ePub;\_Mark Up;\_In ClickUp;Book
-               (child)}
+               (child);git-lit}
 }
 
 @ARTICLE{Fuller2003-fy,
@@ -3166,7 +3179,7 @@
                Realism;llm-wiki-workflow;003\_Theoretical
                Framework;Marx\_Labor;Rowland;\_New Literature;Workplace
                Learning;ePub;Important;\_In ClickUp;\_In Notion;\_In
-               Readwise;Cross Ref Chapter;Reader\_Obsidian;Book (child)}
+               Readwise;Cross Ref Chapter;Reader\_Obsidian;Book (child);git-lit}
 }
 
 @INBOOK{Rainbird2004-of,
@@ -3199,7 +3212,7 @@
   keywords  = {Workplace Learning in Context;3\_Upgrade OCT 2023;\_BibTex to MD
                Git;EPubs Books;llm-wiki-workflow;\_In Notion;\_In Readwise;Cross
                Ref Chapter;ePub;VET;Workplace Learning;\_New Literature;Book
-               (child)}
+               (child);git-lit}
 }
 
 @ARTICLE{Assaad2022-zl,
@@ -3254,6 +3267,6 @@
                   2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;Offsite\_NBLM;\_In Notion;\_In
                   Readwise;AEC;Essential;\_In ClickUp;\_Mark Up;Workplace
-                  Learning;Training},
+                  Learning;Training;git-lit},
   language     = {en}
 }
