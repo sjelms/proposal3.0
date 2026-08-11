@@ -89,7 +89,7 @@
   keywords  = {Zotero Import (Feb 22);My Library;Frontiers [2022];2\_Upgrade MAY
                2023;EPubs Books;Supplement Feedback Document;\_BibTex to MD
                Git;Audible;Cited for Frontiers;Book
-               (physical);Audiobook;Economics;ePub}
+               (physical);Audiobook;Economics;ePub;git-lit}
 }
 
 @BOOK{Burns1997-gn,
@@ -123,7 +123,7 @@
   keywords      = {Zotero Import (Feb 22);My Library;2021-12-03
                    Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                    2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-                   MD Git;Cited for Frontiers;AEC;Statistics},
+                   MD Git;Cited for Frontiers;AEC;Statistics;git-lit},
   origpublisher = {Bureau of Labor Statistics}
 }
 
@@ -150,7 +150,7 @@
   keywords    = {Frontiers [2022];Notion Catalogued;UCL Poster Q1
                  2023;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for
                  Jacqui;\_BibTex to MD Git;llm-wiki-workflow;AEC;Labor;\_Mark
-                 Up;DONE;\_Cataloged}
+                 Up;DONE;\_Cataloged;git-lit}
 }
 
 @BOOK{Engestrom1994-tr,
@@ -193,7 +193,7 @@
   keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-                 MD Git;llm-wiki-workflow;Cited for Frontiers;AEC}
+                 MD Git;llm-wiki-workflow;Cited for Frontiers;AEC;git-lit}
 }
 
 @REPORT{Autor2020-ol,
@@ -209,7 +209,7 @@
                  Frontiers;Frontiers [2022];3\_Upgrade OCT 2023;Future of
                  Work;\_BibTex to MD Git;llm-wiki-workflow;Cited for
                  Frontiers;Automation;Economics;Employment;Skill
-                 demand;Technological change}
+                 demand;Technological change;git-lit}
 }
 
 @ARTICLE{Sparks2009-cr,
@@ -228,7 +228,7 @@
                   Frontiers;Frontiers import [Aug 11];Journal
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
                   to MD Git;llm-wiki-workflow;\_Mark Up;AEC;VET;Workplace
-                  Learning}
+                  Learning;git-lit}
 }
 
 @BOOK{Russell2019-or,
@@ -241,7 +241,8 @@
   isbn      = {9780525558620},
   url       = {https://books.google.co.uk/books?id=M1eFDwAAQBAJ},
   keywords  = {EPubs Books;Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT
-               2023;\_BibTex to MD Git;Audible;ePub;Book (physical);Audiobook}
+               2023;\_BibTex to MD Git;Audible;ePub;Book
+               (physical);Audiobook;git-lit}
 }
 
 @BOOK{Brynjolfsson2014-kx,
@@ -283,7 +284,7 @@
                technological, societal, and economic progress.},
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;EPubs Books;3\_Upgrade OCT
                2023;Future of Work;\_BibTex to MD Git;Audible;Book
-               (physical);Cited for Frontiers;Audiobook;ePub;Economics},
+               (physical);Cited for Frontiers;Audiobook;ePub;Economics;git-lit},
   language  = {en}
 }
 
@@ -325,7 +326,7 @@
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal
                   Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
                   to MD Git;llm-wiki-workflow;Labor;\_Mark Up;DONE;Cited for
-                  Frontiers;AEC},
+                  Frontiers;AEC;git-lit},
   language     = {en}
 }
 
@@ -345,7 +346,7 @@
   keywords     = {Frontiers [2022];2\_Upgrade MAY 2023;Journal Articles;Notion
                   Catalogued;3\_Upgrade OCT 2023;\_BibTex to MD
                   Git;llm-wiki-workflow;Labor;Cited for
-                  Frontiers;\_Cataloged;\_In Readwise;\_Mark Up}
+                  Frontiers;\_Cataloged;\_In Readwise;\_Mark Up;git-lit}
 }
 
 @INPROCEEDINGS{Chini1999-tj,
@@ -362,7 +363,7 @@
   url       = {http://ascpro0.ascweb.org/archives/1999/chini99.htm},
   keywords  = {Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
                Cited Lit for Jacqui;\_BibTex to MD Git;Labor;\_Mark Up;Cited for
-               Frontiers;AEC;Website}
+               Frontiers;AEC;Website;git-lit}
 }
 
 @ARTICLE{Snell2019-ty,
@@ -404,7 +405,7 @@
   url          = {https://doi.org/10.1080/13636820.2018.1480520},
   keywords     = {2\_Upgrade MAY 2023;Journal Articles;VET-TVET;3\_Upgrade OCT
                   2023;\_BibTex to MD Git;llm-wiki-workflow;Workplace
-                  Learning;\_Mark Up;Labor;Cited for Frontiers;VET}
+                  Learning;\_Mark Up;Labor;Cited for Frontiers;VET;git-lit}
 }
 
 @BOOK{Collins2018-ut,
@@ -435,7 +436,7 @@
   keywords  = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
                [2022];EPubs Books;2\_Upgrade MAY 2023;3\_Upgrade OCT
                2023;\_BibTex to MD Git;BSSC Seed Fund for AI Research;Cited for
-               Frontiers;Labor;Workplace Learning;ePub}
+               Frontiers;Labor;Workplace Learning;ePub;git-lit}
 }
 
 @ARTICLE{Cuendet2014-vs,
@@ -487,46 +488,34 @@
                   2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;Knowledge - Skill
                   Acquisition;AEC;Workplace Learning;\_Mark Up;Cited for
-                  Frontiers;VET},
+                  Frontiers;VET;git-lit},
   language     = {en}
 }
 
-@ARTICLE{Fuller2003-gh,
-  title        = {Fostering Workplace Learning: Looking through the Lens of
-                  Apprenticeship},
-  author       = {Fuller, Alison and Unwin, Lorna},
-  journaltitle = {European Educational Research Journal},
-  publisher    = {SAGE Publications},
-  volume       = {2},
-  issue        = {1},
-  pages        = {41--55},
-  date         = {2003-03-01},
-  doi          = {10.2304/eerj.2003.2.1.9},
-  issn         = {1474-9041},
-  abstract     = {This article argues that researching the lived reality of
-                  apprenticeship in contemporary workplaces provides a useful
-                  lens through which workplace learning more generally can be
-                  examined. Drawing on data from a 3-year study of the social
-                  and pedagogical relationships between apprentices and older
-                  workers in the English steel industry, the article proposes
-                  that, building on Engeström's work, an ‘expansive’ as opposed
-                  to a ‘restrictive’ approach to apprenticeship will not only
-                  deliver the broader goals being set for apprenticeship
-                  programmes around the world, but will also foster workplace
-                  learning. The article offers a critique of Lave and Wenger's
-                  novice to expert conceptualisation of apprenticeship and,
-                  using data from employee learning logs, argues that
-                  pedagogical relationships between apprentices and older
-                  workers need to be better understood. A conceptual framework
-                  for analysing the relationship between organisational culture
-                  and history, work organisation, and workplace learning is
-                  provided.},
-  url          = {https://doi.org/10.2304/eerj.2003.2.1.9},
-  keywords     = {Journal Articles;Notion Catalogued;Contemporary Apprenticeship
-                  by Fuller and Unwin;3\_Upgrade OCT 2023;\_BibTex to MD
-                  Git;llm-wiki-workflow;003\_Theoretical Framework;Workplace
-                  Learning;Knowledge - Skill Acquisition;UCL;\_In
-                  Readwise;\_Mark Up;\_In ClickUp;\_Cataloged}
+@ONLINE{UNESCO-UNEVOC2015-ge,
+  title     = {What is {TVET}?},
+  author    = {{UNESCO-UNEVOC}},
+  booktitle = {International Centre for Technical and Vocational Education and
+               Training},
+  publisher = {United Nation Educational Scientific and Cultural Organisation},
+  date      = {2015},
+  abstract  = {‘Technical and vocational education and training’ (TVET) is
+               understood as comprising education, training and skills
+               development relating to a wide range of occupational fields,
+               production, services and livelihoods. TVET, as part of lifelong
+               learning, can take place at secondary, post-secondary and
+               tertiary levels and includes work-based learning and continuing
+               training and professional development which may lead to
+               qualifications. TVET also includes a wide range of skills
+               development opportunities attuned to national and local contexts.
+               Learning to learn, the development of literacy and numeracy
+               skills, transversal skills and citizenship skills are integral
+               components of TVET.},
+  url       = {https://unevoc.unesco.org/home/TVET},
+  urldate   = {2022-03-07},
+  keywords  = {2\_Upgrade MAY 2023;VET-TVET;3\_Upgrade OCT 2023;\_BibTex to MD
+               Git;Cited for Frontiers;VET;git-lit},
+  language  = {en}
 }
 
 @REPORT{Meisels2021-ql,
@@ -541,7 +530,7 @@
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited
-                 for Frontiers;AEC}
+                 for Frontiers;AEC;git-lit}
 }
 
 @ARTICLE{Moodie2002-nc,
@@ -574,7 +563,7 @@
                   Articles;VET-TVET;3\_Upgrade OCT 2023;\_BibTex to MD Git;BSSC
                   Seed Fund for AI Research;llm-wiki-workflow;Knowledge - Skill
                   Acquisition;Workplace Learning;\_Mark Up;Cited for
-                  Frontiers;\_In Readwise;Training;\_Cataloged;VET}
+                  Frontiers;\_In Readwise;Training;\_Cataloged;VET;git-lit}
 }
 
 @REPORT{Meisels2020-qt,
@@ -587,7 +576,7 @@
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited
-                 for Frontiers;AEC}
+                 for Frontiers;AEC;git-lit}
 }
 
 @BOOK{Bell2018-ot,
@@ -630,7 +619,8 @@
                virtual, interactive, self-paced training programme in research
                methods.},
   keywords  = {EPubs Books;Reviewed on Theory;Theory and Methods;2\_Upgrade MAY
-               2023;3\_Upgrade OCT 2023;\_BibTex to MD Git;Book (physical);ePub}
+               2023;3\_Upgrade OCT 2023;\_BibTex to MD Git;Book
+               (physical);ePub;git-lit}
 }
 
 @BOOK{Clark2021-ef,
@@ -645,7 +635,7 @@
   keywords  = {Social sciences -- Research -- Methodology;RDL
                [CCME0041];Reviewed on Theory;3\_Upgrade OCT 2023;\_BibTex to MD
                Git;Critical Realism;llm-wiki-workflow;Marx\_Labor;Course
-               Assignment;\_New Literature;Research Methods},
+               Assignment;\_New Literature;Research Methods;git-lit},
   language  = {eng}
 }
 
@@ -773,7 +763,7 @@
                  Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;AEC\_learning\_theory\_2021-26;003\_Theoretical
                  Framework;AEC;Workplace Learning;Thesis;Read;\_Cataloged;\_Mark
-                 Up;\_In ClickUp}
+                 Up;\_In ClickUp;git-lit}
 }
 
 @ARTICLE{Jadallah2021-is,
@@ -817,7 +807,7 @@
                   MAY 2023;Journal Articles;3\_Upgrade OCT 2023;AEC Cited Lit
                   for Jacqui;\_BibTex to MD
                   Git;llm-wiki-workflow;AEC\_learning\_theory\_2021-26;003\_Theoretical
-                  Framework;AEC;Workplace Learning;\_Mark Up;\_Cataloged}
+                  Framework;AEC;Workplace Learning;\_Mark Up;\_Cataloged;git-lit}
 }
 
 @THESIS{Crayne2021-jq,
@@ -1283,7 +1273,7 @@
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;llm-wiki-workflow;Cited
-                 for Frontiers;AEC}
+                 for Frontiers;AEC;git-lit}
 }
 
 @INPROCEEDINGS{Ras2017-fv,
@@ -2382,7 +2372,7 @@
                  Frontiers;Frontiers [2022];Construction 4-0;UCL Poster Q1
                  2023;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
                  PWC;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                 Git;llm-wiki-workflow;Cited for Frontiers;AEC}
+                 Git;llm-wiki-workflow;Cited for Frontiers;AEC;git-lit}
 }
 
 @REPORT{Renz2016-br,
@@ -3020,33 +3010,7 @@
   keywords    = {Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD
                  Git;llm-wiki-workflow;AEC;Labor;\_In Notion;\_Mark Up;Cited for
-                 Frontiers}
-}
-
-@ONLINE{UNESCO-UNEVOC2015-ge,
-  title     = {What is {TVET}?},
-  author    = {{UNESCO-UNEVOC}},
-  booktitle = {International Centre for Technical and Vocational Education and
-               Training},
-  publisher = {United Nation Educational Scientific and Cultural Organisation},
-  date      = {2015},
-  abstract  = {‘Technical and vocational education and training’ (TVET) is
-               understood as comprising education, training and skills
-               development relating to a wide range of occupational fields,
-               production, services and livelihoods. TVET, as part of lifelong
-               learning, can take place at secondary, post-secondary and
-               tertiary levels and includes work-based learning and continuing
-               training and professional development which may lead to
-               qualifications. TVET also includes a wide range of skills
-               development opportunities attuned to national and local contexts.
-               Learning to learn, the development of literacy and numeracy
-               skills, transversal skills and citizenship skills are integral
-               components of TVET.},
-  url       = {https://unevoc.unesco.org/home/TVET},
-  urldate   = {2022-03-07},
-  keywords  = {2\_Upgrade MAY 2023;VET-TVET;3\_Upgrade OCT 2023;\_BibTex to MD
-               Git;Cited for Frontiers;VET},
-  language  = {en}
+                 Frontiers;git-lit}
 }
 
 @INBOOK{Ahmed2016-sy,
@@ -3099,7 +3063,7 @@
   keywords     = {Journal Articles;VET-TVET;Theory and Methods;3\_Upgrade OCT
                   2023;\_BibTex to MD Git;llm-wiki-workflow;Workplace
                   Learning;Knowledge - Skill Acquisition;VET;UCL;\_In
-                  Readwise;\_In Notion;Research Methods;\_Mark Up}
+                  Readwise;\_In Notion;Research Methods;\_Mark Up;git-lit}
 }
 
 @INBOOK{Hager2013-ey,
@@ -3269,4 +3233,42 @@
                   Readwise;AEC;Essential;\_In ClickUp;\_Mark Up;Workplace
                   Learning;Training;git-lit},
   language     = {en}
+}
+
+@ARTICLE{Fuller2003-gh,
+  title        = {Fostering Workplace Learning: Looking through the Lens of
+                  Apprenticeship},
+  author       = {Fuller, Alison and Unwin, Lorna},
+  journaltitle = {European Educational Research Journal},
+  publisher    = {SAGE Publications},
+  volume       = {2},
+  issue        = {1},
+  pages        = {41--55},
+  date         = {2003-03-01},
+  doi          = {10.2304/eerj.2003.2.1.9},
+  issn         = {1474-9041},
+  abstract     = {This article argues that researching the lived reality of
+                  apprenticeship in contemporary workplaces provides a useful
+                  lens through which workplace learning more generally can be
+                  examined. Drawing on data from a 3-year study of the social
+                  and pedagogical relationships between apprentices and older
+                  workers in the English steel industry, the article proposes
+                  that, building on Engeström's work, an ‘expansive’ as opposed
+                  to a ‘restrictive’ approach to apprenticeship will not only
+                  deliver the broader goals being set for apprenticeship
+                  programmes around the world, but will also foster workplace
+                  learning. The article offers a critique of Lave and Wenger's
+                  novice to expert conceptualisation of apprenticeship and,
+                  using data from employee learning logs, argues that
+                  pedagogical relationships between apprentices and older
+                  workers need to be better understood. A conceptual framework
+                  for analysing the relationship between organisational culture
+                  and history, work organisation, and workplace learning is
+                  provided.},
+  url          = {https://doi.org/10.2304/eerj.2003.2.1.9},
+  keywords     = {Journal Articles;Notion Catalogued;Contemporary Apprenticeship
+                  by Fuller and Unwin;3\_Upgrade OCT 2023;\_BibTex to MD
+                  Git;llm-wiki-workflow;003\_Theoretical Framework;Workplace
+                  Learning;Knowledge - Skill Acquisition;UCL;\_In
+                  Readwise;\_Mark Up;\_In ClickUp;\_Cataloged;git-lit}
 }
